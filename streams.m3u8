@@ -1,10 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Monkeys.tb" tvg-name="Live Monkey Cam" group-title="Animals", Live Monkey Cam
+https://tabi.cam/japan/awaji-monkey-center-98021/
 
 #EXTINF:-1 tvg-id="BaldEagle.tb" tvg-name="Live Bald Eagle Nest America/LosAngeles" group-title="Animals", Live Bald Eagle Nest America/LosAngeles
+https://tabi.cam/united-states/bald-eagles-nest-8-598899/
 
 #EXTINF:-1 tvg-id="ShibuyaScramble.yt" tvg-name="渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera" group-title="Live", 渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Pandas.tb" tvg-name="Live Panda Cam" group-title="Animals", Live Panda Cam
+https://tabi.cam/china/giant-panda-2-370006/
