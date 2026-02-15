@@ -12,20 +12,20 @@ import argparse
 # Channel configuration
 CHANNELS = [
     {
-        'id': 'Monkeys.tb',
+        'id': 'Monkeys.yt',
         'display_name': 'Live Monkey Cam',
         'title': 'Live Monkey Cam',
         'description': '24/7 live stream from Awaji Monkey Center, Japan',
         'category': 'Animals',
-        'timezone': '+0900'  # Japan Standard Time
+        'timezone': '-0500'
     },
     {
-        'id': 'BaldEagle.tb',
+        'id': 'BaldEagle.yt',
         'display_name': 'Live Bald Eagle Nest',
         'title': 'Bald Eagle Nest Cam',
         'description': '24/7 live bald eagle nest observation in Los Angeles',
         'category': 'Animals',
-        'timezone': '-0800'  # Pacific Standard Time
+        'timezone': '-0500'
     },
     {
         'id': 'ShibuyaScramble.yt',
@@ -33,15 +33,15 @@ CHANNELS = [
         'title': 'Shibuya Scramble Crossing',
         'description': '24/7 live view of Shibuya Crossing, Tokyo',
         'category': 'Live',
-        'timezone': '+0900'  # Japan Standard Time
+        'timezone': '-0500'
     },
     {
-        'id': 'Pandas.tb',
+        'id': 'Pandas.yt',
         'display_name': 'Live Panda Cam',
         'title': 'Giant Panda Cam',
         'description': '24/7 live giant panda observation from China',
         'category': 'Animals',
-        'timezone': '+0800'  # China Standard Time
+        'timezone': '-0500'
     }
 ]
 
