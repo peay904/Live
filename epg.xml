@@ -1,1 +1,157 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Live Stream EPG Generator">
+  <channel id="Monkeys.tb">
+    <display-name>Live Monkey Cam</display-name>
+  </channel>
+  <channel id="BaldEagle.tb">
+    <display-name>Live Bald Eagle Nest</display-name>
+  </channel>
+  <channel id="ShibuyaScramble.yt">
+    <display-name>Shibuya Scramble Crossing</display-name>
+  </channel>
+  <channel id="Pandas.tb">
+    <display-name>Live Panda Cam</display-name>
+  </channel>
+  <programme start="20260215000000 +0900" stop="20260216000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260215000000 -0800" stop="20260216000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260215000000 +0900" stop="20260216000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260216000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260216000000 +0900" stop="20260217000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260216000000 -0800" stop="20260217000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260216000000 +0900" stop="20260217000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260217000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260217000000 +0900" stop="20260218000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260217000000 -0800" stop="20260218000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260217000000 +0900" stop="20260218000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260218000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260218000000 +0900" stop="20260219000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260218000000 -0800" stop="20260219000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260218000000 +0900" stop="20260219000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260218000000 +0800" stop="20260219000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260219000000 +0900" stop="20260220000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260219000000 -0800" stop="20260220000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260219000000 +0900" stop="20260220000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260220000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260220000000 +0900" stop="20260221000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260220000000 -0800" stop="20260221000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260220000000 +0900" stop="20260221000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260221000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260221000000 +0900" stop="20260222000000 +0900" channel="Monkeys.tb">
+    <title lang="en">Live Monkey Cam</title>
+    <desc lang="en">24/7 live stream from Awaji Monkey Center, Japan</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260221000000 -0800" stop="20260222000000 -0800" channel="BaldEagle.tb">
+    <title lang="en">Bald Eagle Nest Cam</title>
+    <desc lang="en">24/7 live bald eagle nest observation in Los Angeles</desc>
+    <category lang="en">Animals</category>
+  </programme>
+  <programme start="20260221000000 +0900" stop="20260222000000 +0900" channel="ShibuyaScramble.yt">
+    <title lang="en">Shibuya Scramble Crossing</title>
+    <desc lang="en">24/7 live view of Shibuya Crossing, Tokyo</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260222000000 +0800" channel="Pandas.tb">
+    <title lang="en">Giant Panda Cam</title>
+    <desc lang="en">24/7 live giant panda observation from China</desc>
+    <category lang="en">Animals</category>
+  </programme>
+</tv>
