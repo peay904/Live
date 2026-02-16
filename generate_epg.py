@@ -163,7 +163,6 @@ CHANNELS = [
         'category': 'Live',
         'timezone': '-0500'
     },
-    },
         {
         'id': 'Waterhole.ip',
         'display_name': 'Africam: Tau Waterhole',
