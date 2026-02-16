@@ -46,7 +46,7 @@ CHANNELS = [
     {
         'id': 'Shoreline.ip',
         'display_name': 'Shoreline Cam',
-        'title': Shoreline Cam',
+        'title': 'Shoreline Cam',
         'description': '24/7 live Shoreline Cam',
         'category': 'Live',
         'timezone': '-0500'
@@ -78,7 +78,7 @@ CHANNELS = [
         {
         'id': 'Roatan.ip',
         'display_name': 'Roatan',
-        'title': '',Roatan Live
+        'title': 'Roatan Live',
         'description': '24/7 live Roatan',
         'category': 'Live',
         'timezone': '-0500'
@@ -108,15 +108,71 @@ CHANNELS = [
         'timezone': '-0500'
     },    
         {
-        'id': 'NO.ip',
-        'display_name': 'Bourbon Street',
-        'title': 'Bourbon Street Live',
-        'description': '24/7 live Bourbon Street, New Orleans',
+        'id': 'Bald.ip',
+        'display_name': 'Bald Eagle's Nest',
+        'title': 'Bald Eagle's Nest Live',
+        'description': '24/7 live Bald Eagle's Nest',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Tongass.ip',
+        'display_name': 'Tongass National Forest',
+        'title': 'Tongass National Forest Live',
+        'description': '24/7 live Tongass National Forest',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Aurora.ip',
+        'display_name': 'Aurora Borealis',
+        'title': 'Aurora Borealis Live',
+        'description': '24/7 live Aurora Borealis',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Reef.ip',
+        'display_name': 'Underwater Reef Cam',
+        'title': 'Underwater Reef Cam Live',
+        'description': '24/7 live Underwater Reef Cam',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Pup.ip',
+        'display_name': 'Puppy Cam',
+        'title': 'Puppy Cam Live',
+        'description': '24/7 live Puppy Cam',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Cat.ip',
+        'display_name': 'Kitty Cam',
+        'title': 'Kitty Cam Live',
+        'description': '24/7 live Kitty Cam',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Elephant.ip',
+        'display_name': 'Elephant Cam',
+        'title': 'Elephant Cam Live',
+        'description': '24/7 live Elephant Cam',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+    },
+        {
+        'id': 'Waterhole.ip',
+        'display_name': 'Africam: Tau Waterhole',
+        'title': 'Africam: Tau Waterhole Live',
+        'description': '24/7 live au Waterhole',
         'category': 'Live',
         'timezone': '-0500'
     }    
 ]
-
 
 def format_time(dt, timezone):
     """Format datetime to XMLTV format: YYYYMMDDHHmmss +/-HHMM"""
