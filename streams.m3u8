@@ -59,9 +59,6 @@ https://outbound-production.explore.org/stream-production-561/.m3u8
 #EXTINF:-1 tvg-id="Cat.ip" tvg-name="Kitty Cam Live" group-title="Live", Kitty Cam
 https://outbound-production.explore.org/stream-production-84/.m3u8
 
-#EXTINF:-1 tvg-id="Pup.ip" tvg-name="Puppy Cam Live" group-title="Live", Puppy Cam
-https://explore.org/livecams/ecad/east-coast-assistance-dogs-cam-2
-
 #EXTINF:-1 tvg-id="Elephant.ip" tvg-name="Africam: Elephant Park" group-title="Live", Africam: Elephant Park
 https://outbound-production.explore.org/stream-production-110/.m3u8
 
