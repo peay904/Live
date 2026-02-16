@@ -12,37 +12,109 @@ import argparse
 # Channel configuration
 CHANNELS = [
     {
-        'id': 'Monkeys.yt',
-        'display_name': 'Live Monkey Cam',
-        'title': 'Live Monkey Cam',
-        'description': '24/7 live stream from Awaji Monkey Center, Japan',
-        'category': 'Animals',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'BaldEagle.yt',
-        'display_name': 'Live Bald Eagle Nest',
-        'title': 'Bald Eagle Nest Cam',
-        'description': '24/7 live bald eagle nest observation in Los Angeles',
-        'category': 'Animals',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'ShibuyaScramble.yt',
-        'display_name': 'Shibuya Scramble Crossing',
-        'title': 'Shibuya Scramble Crossing',
-        'description': '24/7 live view of Shibuya Crossing, Tokyo',
+        'id': 'Port.ip',
+        'display_name': 'Port de Baie-Comeau',
+        'title': 'Port de Baie-Comeau',
+        'description': '24/7 live stream from Port de Baie-Comeau, Quebec',
         'category': 'Live',
         'timezone': '-0500'
     },
     {
-        'id': 'Pandas.yt',
-        'display_name': 'Live Panda Cam',
-        'title': 'Giant Panda Cam',
-        'description': '24/7 live giant panda observation from China',
-        'category': 'Animals',
+        'id': 'StGeorge.yt',
+        'display_name': 'St. George St, St Aug Live',
+        'title': 'St. George St, St Aug Live',
+        'description': 'St. George St, St Aug Live Stream',
+        'category': 'Live',
         'timezone': '-0500'
-    }
+    },
+    {
+        'id': 'Schooners.ip',
+        'display_name': 'Schooners Bar',
+        'title': 'Schooners Bar Live',
+        'description': '24/7 live view of Schooners Bar in PCB',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+    {
+        'id': 'Playa.ip',
+        'display_name': 'Playa Palms Beach Hotel Live',
+        'title': 'Playa Palms Beach Hotel Live',
+        'description': '24/7 live Playa Palms Beach Hotel Mexico',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+    {
+        'id': 'Shoreline.ip',
+        'display_name': 'Shoreline Cam',
+        'title': Shoreline Cam',
+        'description': '24/7 live Shoreline Cam',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+    {
+        'id': 'PSB.ip',
+        'display_name': 'Pink Shell Beach',
+        'title': 'Pink Shell Beach Live',
+        'description': '24/7 live Pink Shell Beach',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Hog.ip',
+        'display_name': 'Hogs Breath Saloon Key West',
+        'title': 'Hogs Breath Saloon Key West',
+        'description': '24/7 live Hogs Breath Saloon',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Aqua.ip',
+        'display_name': 'Aqualand Moravia Czech Republic',
+        'title': 'Aqualand Moravia Czech Republic',
+        'description': '24/7 live Aqualand Moravia Czech Republic',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Roatan.ip',
+        'display_name': 'Roatan',
+        'title': '',Roatan Live
+        'description': '24/7 live Roatan',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Maui.ip',
+        'display_name': 'Lahaina Maui',
+        'title': 'Lahaina Maui Live',
+        'description': '24/7 live Lahaina Maui',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Maldives.ip',
+        'display_name': 'Maldives',
+        'title': 'Maldives Live',
+        'description': '24/7 live Maldives',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Zambia.ip',
+        'display_name': 'Zambia',
+        'title': 'Lower Zambezi Natl Park - Zambia Live',
+        'description': '24/7 live Lower Zambezi Natl Park - Zambia',
+        'category': 'Live',
+        'timezone': '-0500'
+    },    
+        {
+        'id': 'NO.ip',
+        'display_name': 'Bourbon Street',
+        'title': 'Bourbon Street Live',
+        'description': '24/7 live Bourbon Street, New Orleans',
+        'category': 'Live',
+        'timezone': '-0500'
+    }    
 ]
 
 
