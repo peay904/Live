@@ -109,9 +109,9 @@ CHANNELS = [
     },    
         {
         'id': 'Bald.ip',
-        'display_name': 'Bald Eagle's Nest',
-        'title': 'Bald Eagle's Nest Live',
-        'description': '24/7 live Bald Eagle's Nest',
+        'display_name': 'Bald Eagles Nest',
+        'title': 'Bald Eagles Nest Live',
+        'description': '24/7 live Bald Eagles Nest',
         'category': 'Live',
         'timezone': '-0500'
     },
