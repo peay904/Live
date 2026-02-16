@@ -5,5 +5,35 @@ https://s137.ipcamlive.com/streams/89cpqlzov2azh0ih6/stream.m3u8
 #EXTINF:-1 tvg-id="StGeorge.yt" tvg-name="St. George St." group-title="Live", St. George St, St Aug Live
 https://anym3u8player.com/youtube.php/id/6992469c536dd.m3u8
 
-#EXTINF:-1 tvg-id="Pandas.yt" tvg-name="Live Panda Cam" group-title="Animals", Live Panda Cam
+#EXTINF:-1 tvg-id="Schooners.ip" tvg-name="Schooners Bar Live" group-title="Live", Schooners Bar PCB
+https://s93.ipcamlive.com/streams/5dpj4cmbtuuzqhdxe/stream.m3u8
 
+#EXTINF:-1 tvg-id="Playa.ip" tvg-name="Playa Palms" group-title="Live", Playa Palms Beach Hotel
+https://s132.ipcamlive.com/streams/84ectnrwja0ntb64e/stream.m3u8
+
+#EXTINF:-1 tvg-id="Shoreline.ip" tvg-name="Shoreline" group-title="Live", Shoreline Cam
+https://s93.ipcamlive.com/streams/5dniuyez7ilsexjoz/stream.m3u8
+
+#EXTINF:-1 tvg-id="PSB.ip" tvg-name="Pink Shell Beach" group-title="Live", Pink Shell Beach
+https://e1-na8.angelcam.com/cameras/77018/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzExOTY4MjEsIm5iZiI6MTc3MTE5NjcwMSwiZXhwIjoxNzcxMjA0MDIxLCJkaWQiOiI3NzAxOCJ9.TDjfMNOeF99Nf6WsL0_grOQmopiNAW6sZYI31eQCvqE
+
+#EXTINF:-1 tvg-id="Hog.ip" tvg-name="Hogs Breath Saloon" group-title="Live", Hogs Breath Key West
+https://youtu.be/S605ycm0Vlk
+
+#EXTINF:-1 tvg-id="Aqua.ip" tvg-name="Aqualand" group-title="Live", Aqualand Moravia Czech Republic
+https://aqualand.e.smartcams.cz/smartcam-aqualand/952eff7f0753469c2ca72cd78a249194/4.smil/chunklist_b851968.m3u8
+
+#EXTINF:-1 tvg-id="Roatan.ip" tvg-name="Roatan" group-title="Live", Roatan
+https://videos-3.earthcam.com/fecnetwork/40604.flv/chunklist_w1328250895.m3u8?t=iy62+obDnYmGN81bEMbiaMTtY5varBaofYE+tLjOQd9069v/40XNYu2Ti/1JpUdl&cid=
+
+#EXTINF:-1 tvg-id="Maui.ip" tvg-name="Maui" group-title="Live", Lahaina Maui
+https://stream-uc2-bravo.dropcam.com/nexus_aac/e8e5758e39ee4b80b413f2b0ffca7986/chunklist_w1087235141.m3u8?public=1zccvpZ04f
+
+#EXTINF:-1 tvg-id="Maldives.ip" tvg-name="Maldives" group-title="Live", Maldives
+https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
+
+#EXTINF:-1 tvg-id="Zambia.ip" tvg-name="Zambia" group-title="Live", Lower Zambezi Natl Park - Zambia
+https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
+
+#EXTINF:-1 tvg-id="NO.ip" tvg-name="Bourbon Street" group-title="Live", Bourbon Street
+https://videos-3.earthcam.com/fecnetwork/4280.flv/media_w900928848_8581.ts?t=Z8SpBH92uYu3pHPoOMZ+9zmlj1I9el/0SgTs+xGjkmunx3A9znrd5SCmKQYWmWsi&td=202602151909
