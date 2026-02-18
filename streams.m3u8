@@ -64,3 +64,13 @@ https://outbound-production.explore.org/stream-production-110/.m3u8
 
 #EXTINF:-1 tvg-id="Waterhole.ip" tvg-name="Africam: Tau Waterhole" group-title="Live", Africam: Tau Waterhole
 https://explore.org/livecams/african-wildlife/tau
+
+#EXTINF:-1 tvg-id="KSC.ip" tvg-name="Kennedy Space Live" group-title="Live", Kennedy Space Center
+https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
+
+#EXTINF:-1 tvg-id="Manatee.ip" tvg-name="Manatee Cam Live" group-title="Live", Manatee Cam
+https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1636942416.m3u8
+
+#EXTINF:-1 tvg-id="Elvis.ip" tvg-name="Elvis Wedding Chapel Live" group-title="Live", Elvis Wedding Chapel, Las Vegas
+https://videos-3.earthcam.com/fecnetwork/21001.flv/chunklist_w1693981173.m3u8?t=4TEG5DXgq8kVzQMe9xA5gwjTWacE8/7dXnAVLVdMCf5Dma6jl5Dq9nadSjMajuBh&td=202602171442
+
