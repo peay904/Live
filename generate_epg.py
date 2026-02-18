@@ -170,7 +170,31 @@ CHANNELS = [
         'description': '24/7 live au Waterhole',
         'category': 'Live',
         'timezone': '-0500'
-    }    
+    },
+        {
+        'id': 'Elvis.ip',
+        'display_name': 'Elvis Wedding Chapel - Vegas',
+        'title': 'Elvis Wedding Chapel',
+        'description': '24/7 live Elvis Wedding Chapel',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'Manatee.ip',
+        'display_name': '',
+        'title': 'Manatee Cam Live',
+        'description': '24/7 live Manatee Cam',
+        'category': 'Live',
+        'timezone': '-0500'
+    },
+        {
+        'id': 'KSC.ip',
+        'display_name': 'Kennendy Space Center',
+        'title': 'Kennedy Space Center Live',
+        'description': '24/7 live Kennedy Space Center',
+        'category': 'Live',
+        'timezone': '-0500'
+    }
 ]
 
 def format_time(dt, timezone):
