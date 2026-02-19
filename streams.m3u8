@@ -33,7 +33,7 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
 https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
 
 #EXTINF:-1 tvg-id="NO.ip" tvg-name="Bourbon Street" group-title="Live", Bourbon Street
-https://videos-3.earthcam.com/fecnetwork/4280.flv/media_w900928848_8581.ts?t=Z8SpBH92uYu3pHPoOMZ+9zmlj1I9el/0SgTs+xGjkmunx3A9znrd5SCmKQYWmWsi&td=202602151909
+https://videos-3.earthcam.com/fecnetwork/4280.flv/chunklist_w1777105218.m3u8?t=Z8SpBH92uYu3pHPoOMZ+9zmlj1I9el/0SgTs+xGjkmvaQyC6pAGl2Aq7Fu9swZVn&td=202602182355
 
 #EXTINF:-1 tvg-id="SS.ip" tvg-name="Space Station" group-title="Live", Kennedy Space Center
 https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
@@ -71,3 +71,8 @@ https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1636942416.m3
 #EXTINF:-1 tvg-id="Elvis.ip" tvg-name="Elvis Wedding Chapel Live" group-title="Live", Elvis Wedding Chapel, Las Vegas
 https://videos-3.earthcam.com/fecnetwork/21001.flv/chunklist_w1693981173.m3u8?t=4TEG5DXgq8kVzQMe9xA5gwjTWacE8/7dXnAVLVdMCf5Dma6jl5Dq9nadSjMajuBh&td=202602171442
 
+#EXTINF:-1 tvg-id="Joe.ip" tvg-name="Sloppy Joe's Live" group-title="Live", Sloppy Joe's Bar - Key West
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt19793.rc0.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inn.ip" tvg-name="Sunset Inn Live" group-title="Live", Sunset Inn, Marathon, FL
+https://s69.ipcamlive.com/streams/45zqb7gcjua5er0xv/stream.m3u8
