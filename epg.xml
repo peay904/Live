@@ -1,1684 +1,2269 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epg-generator">
 
-<tv generator-info-name="Live Stream EPG Generator">
   <channel id="Port.ip">
-    <display-name>Port de Baie-Comeau</display-name>
+    <display-name>Port de Baie-Comeau Live</display-name>
   </channel>
   <channel id="StGeorge.yt">
-    <display-name>St. George St, St Aug Live</display-name>
+    <display-name>St. George St, St Augustine Live</display-name>
   </channel>
   <channel id="Schooners.ip">
-    <display-name>Schooners Bar</display-name>
+    <display-name>Schooners Bar PCB Live</display-name>
   </channel>
   <channel id="Playa.ip">
     <display-name>Playa Palms Beach Hotel Live</display-name>
   </channel>
   <channel id="Shoreline.ip">
-    <display-name>Shoreline Cam</display-name>
+    <display-name>Shoreline Cam Live</display-name>
   </channel>
   <channel id="PSB.ip">
-    <display-name>Pink Shell Beach</display-name>
-  </channel>
-  <channel id="Hog.ip">
-    <display-name>Hogs Breath Saloon Key West</display-name>
+    <display-name>Pink Shell Beach Live</display-name>
   </channel>
   <channel id="Aqua.ip">
-    <display-name>Aqualand Moravia Czech Republic</display-name>
+    <display-name>Aqualand Moravia Live</display-name>
   </channel>
   <channel id="Roatan.ip">
-    <display-name>Roatan</display-name>
+    <display-name>Roatan Live</display-name>
   </channel>
   <channel id="Maui.ip">
-    <display-name>Lahaina Maui</display-name>
+    <display-name>Lahaina Maui Live</display-name>
   </channel>
   <channel id="Maldives.ip">
-    <display-name>Maldives</display-name>
+    <display-name>Maldives Live</display-name>
   </channel>
   <channel id="Zambia.ip">
-    <display-name>Zambia</display-name>
+    <display-name>Lower Zambezi National Park Live</display-name>
+  </channel>
+  <channel id="NO.ip">
+    <display-name>Bourbon Street Live</display-name>
+  </channel>
+  <channel id="SS.ip">
+    <display-name>Kennedy Space Center Live</display-name>
   </channel>
   <channel id="Bald.ip">
-    <display-name>Bald Eagles Nest</display-name>
+    <display-name>Bald Eagle's Nest Live</display-name>
   </channel>
   <channel id="Tongass.ip">
-    <display-name>Tongass National Forest</display-name>
+    <display-name>Tongass National Forest Live</display-name>
   </channel>
   <channel id="Aurora.ip">
-    <display-name>Aurora Borealis</display-name>
+    <display-name>Aurora Borealis Live</display-name>
   </channel>
   <channel id="Reef.ip">
-    <display-name>Underwater Reef Cam</display-name>
+    <display-name>Underwater Reef Cam Live</display-name>
   </channel>
   <channel id="Pup.ip">
-    <display-name>Puppy Cam</display-name>
+    <display-name>Puppy Cam Live</display-name>
   </channel>
   <channel id="Cat.ip">
-    <display-name>Kitty Cam</display-name>
+    <display-name>Kitty Cam Live</display-name>
   </channel>
   <channel id="Elephant.ip">
-    <display-name>Elephant Cam</display-name>
+    <display-name>Africam: Elephant Park Live</display-name>
   </channel>
   <channel id="Waterhole.ip">
-    <display-name>Africam: Tau Waterhole</display-name>
-  </channel>
-  <channel id="Elvis.ip">
-    <display-name>Elvis Wedding Chapel - Vegas</display-name>
-  </channel>
-  <channel id="Manatee.ip">
-    <display-name/>
+    <display-name>Africam: Tau Waterhole Live</display-name>
   </channel>
   <channel id="KSC.ip">
-    <display-name>Kennendy Space Center</display-name>
+    <display-name>Kennedy Space Center Live</display-name>
   </channel>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <channel id="Manatee.ip">
+    <display-name>Manatee Cam Live</display-name>
+  </channel>
+  <channel id="Elvis.ip">
+    <display-name>Elvis Wedding Chapel Live</display-name>
+  </channel>
+  <channel id="Joe.ip">
+    <display-name>Sloppy Joe's Bar Live</display-name>
+  </channel>
+  <channel id="Inn.ip">
+    <display-name>Sunset Inn Marathon Live</display-name>
+  </channel>
+
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Playa.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="PSB.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Roatan.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Maui.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Maldives.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260217000000 -0500" stop="20260218000000 -0500" channel="KSC.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Playa.ip">
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260219000000 +0000" stop="20260220000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="PSB.ip">
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Roatan.ip">
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Maui.ip">
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Maldives.ip">
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260218000000 -0500" stop="20260219000000 -0500" channel="KSC.ip">
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Playa.ip">
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260220000000 +0000" stop="20260221000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="PSB.ip">
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Roatan.ip">
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Maui.ip">
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Maldives.ip">
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260219000000 -0500" stop="20260220000000 -0500" channel="KSC.ip">
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Playa.ip">
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260222000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="PSB.ip">
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Roatan.ip">
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Maui.ip">
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Maldives.ip">
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260220000000 -0500" stop="20260221000000 -0500" channel="KSC.ip">
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Playa.ip">
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260222000000 +0000" stop="20260223000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="PSB.ip">
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Roatan.ip">
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Maui.ip">
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Maldives.ip">
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260221000000 -0500" stop="20260222000000 -0500" channel="KSC.ip">
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Playa.ip">
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260223000000 +0000" stop="20260224000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="PSB.ip">
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Roatan.ip">
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Maui.ip">
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Maldives.ip">
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260222000000 -0500" stop="20260223000000 -0500" channel="KSC.ip">
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Playa.ip">
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260225000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="PSB.ip">
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Roatan.ip">
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Maui.ip">
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Maldives.ip">
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260223000000 -0500" stop="20260224000000 -0500" channel="KSC.ip">
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Playa.ip">
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260226000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="PSB.ip">
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Roatan.ip">
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Maui.ip">
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Maldives.ip">
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260225000000 -0500" channel="KSC.ip">
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Playa.ip">
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260227000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="PSB.ip">
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Roatan.ip">
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Maui.ip">
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Maldives.ip">
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260225000000 -0500" stop="20260226000000 -0500" channel="KSC.ip">
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Playa.ip">
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260228000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="PSB.ip">
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Roatan.ip">
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Maui.ip">
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Maldives.ip">
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260226000000 -0500" stop="20260227000000 -0500" channel="KSC.ip">
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Playa.ip">
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260301000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="PSB.ip">
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Roatan.ip">
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Maui.ip">
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Maldives.ip">
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260227000000 -0500" stop="20260228000000 -0500" channel="KSC.ip">
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Playa.ip">
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260302000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="PSB.ip">
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Roatan.ip">
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Maui.ip">
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Maldives.ip">
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260228000000 -0500" stop="20260301000000 -0500" channel="KSC.ip">
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Playa.ip">
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260303000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="PSB.ip">
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Roatan.ip">
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Maui.ip">
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Maldives.ip">
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260301000000 -0500" stop="20260302000000 -0500" channel="KSC.ip">
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Port.ip">
-    <title lang="en">Port de Baie-Comeau</title>
-    <desc lang="en">24/7 live stream from Port de Baie-Comeau, Quebec</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="StGeorge.yt">
-    <title lang="en">St. George St, St Aug Live</title>
-    <desc lang="en">St. George St, St Aug Live Stream</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Schooners.ip">
-    <title lang="en">Schooners Bar Live</title>
-    <desc lang="en">24/7 live view of Schooners Bar in PCB</desc>
-    <category lang="en">Live</category>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Playa.ip">
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260304000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Port.ip">
+    <title lang="en">Port de Baie-Comeau Live</title>
+    <desc lang="en">24/7 live webcam feed from Port de Baie-Comeau.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="StGeorge.yt">
+    <title lang="en">St. George St, St Augustine Live</title>
+    <desc lang="en">24/7 live webcam feed of St. George Street in St. Augustine, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Schooners.ip">
+    <title lang="en">Schooners Bar PCB Live</title>
+    <desc lang="en">24/7 live webcam feed from Schooners Bar, Panama City Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Playa.ip">
     <title lang="en">Playa Palms Beach Hotel Live</title>
-    <desc lang="en">24/7 live Playa Palms Beach Hotel Mexico</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Playa Palms Beach Hotel.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Shoreline.ip">
-    <title lang="en">Shoreline Cam</title>
-    <desc lang="en">24/7 live Shoreline Cam</desc>
-    <category lang="en">Live</category>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Shoreline.ip">
+    <title lang="en">Shoreline Cam Live</title>
+    <desc lang="en">24/7 live shoreline webcam feed.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="PSB.ip">
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="PSB.ip">
     <title lang="en">Pink Shell Beach Live</title>
-    <desc lang="en">24/7 live Pink Shell Beach</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Pink Shell Beach.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Hog.ip">
-    <title lang="en">Hogs Breath Saloon Key West</title>
-    <desc lang="en">24/7 live Hogs Breath Saloon</desc>
-    <category lang="en">Live</category>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Aqua.ip">
+    <title lang="en">Aqualand Moravia Live</title>
+    <desc lang="en">24/7 live webcam feed from Aqualand Moravia, Czech Republic.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Aqua.ip">
-    <title lang="en">Aqualand Moravia Czech Republic</title>
-    <desc lang="en">24/7 live Aqualand Moravia Czech Republic</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Roatan.ip">
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Roatan.ip">
     <title lang="en">Roatan Live</title>
-    <desc lang="en">24/7 live Roatan</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Roatan, Honduras.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Maui.ip">
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live</title>
-    <desc lang="en">24/7 live Lahaina Maui</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Lahaina, Maui.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Maldives.ip">
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Maldives.ip">
     <title lang="en">Maldives Live</title>
-    <desc lang="en">24/7 live Maldives</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from the Maldives.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Zambia.ip">
-    <title lang="en">Lower Zambezi Natl Park - Zambia Live</title>
-    <desc lang="en">24/7 live Lower Zambezi Natl Park - Zambia</desc>
-    <category lang="en">Live</category>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Zambia.ip">
+    <title lang="en">Lower Zambezi National Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Lower Zambezi National Park, Zambia.</desc>
+    <category lang="en">Nature</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Bald.ip">
-    <title lang="en">Bald Eagles Nest Live</title>
-    <desc lang="en">24/7 live Bald Eagles Nest</desc>
-    <category lang="en">Live</category>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="NO.ip">
+    <title lang="en">Bourbon Street Live</title>
+    <desc lang="en">24/7 live webcam feed from Bourbon Street, New Orleans.</desc>
+    <category lang="en">News</category>
+    <live/>
   </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live</title>
-    <desc lang="en">24/7 live Tongass National Forest</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live</title>
-    <desc lang="en">24/7 live Aurora Borealis</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Reef.ip">
-    <title lang="en">Underwater Reef Cam Live</title>
-    <desc lang="en">24/7 live Underwater Reef Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live</title>
-    <desc lang="en">24/7 live Puppy Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Cat.ip">
-    <title lang="en">Kitty Cam Live</title>
-    <desc lang="en">24/7 live Kitty Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Elephant.ip">
-    <title lang="en">Elephant Cam Live</title>
-    <desc lang="en">24/7 live Elephant Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live</title>
-    <desc lang="en">24/7 live au Waterhole</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Elvis.ip">
-    <title lang="en">Elvis Wedding Chapel</title>
-    <desc lang="en">24/7 live Elvis Wedding Chapel</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="Manatee.ip">
-    <title lang="en">Manatee Cam Live</title>
-    <desc lang="en">24/7 live Manatee Cam</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20260302000000 -0500" stop="20260303000000 -0500" channel="KSC.ip">
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="SS.ip">
     <title lang="en">Kennedy Space Center Live</title>
-    <desc lang="en">24/7 live Kennedy Space Center</desc>
-    <category lang="en">Live</category>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
   </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live</title>
+    <desc lang="en">24/7 live webcam feed of a bald eagle's nest via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live</title>
+    <desc lang="en">24/7 live webcam feed from Tongass National Forest, Alaska.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live</title>
+    <desc lang="en">24/7 live webcam feed of the Northern Lights via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Cam Live</title>
+    <desc lang="en">24/7 live underwater reef webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live</title>
+    <desc lang="en">24/7 live puppy webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Cat.ip">
+    <title lang="en">Kitty Cam Live</title>
+    <desc lang="en">24/7 live kitten webcam feed via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Elephant Park via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live</title>
+    <desc lang="en">24/7 live webcam feed from Africam Tau Waterhole via Explore.org.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="KSC.ip">
+    <title lang="en">Kennedy Space Center Live</title>
+    <desc lang="en">24/7 live webcam feed from Kennedy Space Center.</desc>
+    <category lang="en">Science</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Manatee.ip">
+    <title lang="en">Manatee Cam Live</title>
+    <desc lang="en">24/7 live manatee webcam feed.</desc>
+    <category lang="en">Nature</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Elvis.ip">
+    <title lang="en">Elvis Wedding Chapel Live</title>
+    <desc lang="en">24/7 live webcam feed from the Elvis Wedding Chapel, Las Vegas.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live</title>
+    <desc lang="en">24/7 live webcam feed from Sloppy Joe's Bar, Key West.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260305000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Marathon Live</title>
+    <desc lang="en">24/7 live webcam feed from Sunset Inn, Marathon, FL.</desc>
+    <category lang="en">News</category>
+    <live/>
+  </programme>
+
 </tv>
