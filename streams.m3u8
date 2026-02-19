@@ -17,9 +17,6 @@ https://s93.ipcamlive.com/streams/5dniuyez7ilsexjoz/stream.m3u8
 #EXTINF:-1 tvg-id="PSB.ip" tvg-name="Pink Shell Beach" group-title="Live", Pink Shell Beach
 https://e1-na8.angelcam.com/cameras/77018/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzExOTY4MjEsIm5iZiI6MTc3MTE5NjcwMSwiZXhwIjoxNzcxMjA0MDIxLCJkaWQiOiI3NzAxOCJ9.TDjfMNOeF99Nf6WsL0_grOQmopiNAW6sZYI31eQCvqE
 
-#EXTINF:-1 tvg-id="Hog.ip" tvg-name="Hogs Breath Saloon" group-title="Live", Hogs Breath Key West
-https://youtu.be/S605ycm0Vlk
-
 #EXTINF:-1 tvg-id="Aqua.ip" tvg-name="Aqualand" group-title="Live", Aqualand Moravia Czech Republic
 https://aqualand.e.smartcams.cz/smartcam-aqualand/952eff7f0753469c2ca72cd78a249194/4.smil/chunklist_b851968.m3u8
 
@@ -33,12 +30,12 @@ https://stream-uc2-bravo.dropcam.com/nexus_aac/e8e5758e39ee4b80b413f2b0ffca7986/
 https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
 
 #EXTINF:-1 tvg-id="Zambia.ip" tvg-name="Zambia" group-title="Live", Lower Zambezi Natl Park - Zambia
-https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
 
 #EXTINF:-1 tvg-id="NO.ip" tvg-name="Bourbon Street" group-title="Live", Bourbon Street
 https://videos-3.earthcam.com/fecnetwork/4280.flv/media_w900928848_8581.ts?t=Z8SpBH92uYu3pHPoOMZ+9zmlj1I9el/0SgTs+xGjkmunx3A9znrd5SCmKQYWmWsi&td=202602151909
 
-#EXTINF:-1 tvg-id="KSC.ip" tvg-name="Space Station" group-title="Live", Kennedy Space Center
+#EXTINF:-1 tvg-id="SS.ip" tvg-name="Space Station" group-title="Live", Kennedy Space Center
 https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
 
 #EXTINF:-1 tvg-id="Bald.ip" tvg-name="Bald Eagle's Nest" group-title="Live", Bald Eagle's Nest
@@ -63,7 +60,7 @@ https://outbound-production.explore.org/stream-production-84/.m3u8
 https://outbound-production.explore.org/stream-production-110/.m3u8
 
 #EXTINF:-1 tvg-id="Waterhole.ip" tvg-name="Africam: Tau Waterhole" group-title="Live", Africam: Tau Waterhole
-https://explore.org/livecams/african-wildlife/tau
+https://outbound-production.explore.org/stream-production-317/.m3u8
 
 #EXTINF:-1 tvg-id="KSC.ip" tvg-name="Kennedy Space Live" group-title="Live", Kennedy Space Center
 https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
