@@ -127,6 +127,24 @@
   <channel id="rocks.ip">
     <display-name>Red Rocks Live</display-name>
   </channel>
+  <channel id="tank.ip">
+    <display-name>Ocean Tank Live</display-name>
+  </channel>
+  <channel id="portillo.ip">
+    <display-name>Portillo Ski Resort Live</display-name>
+  </channel>
+  <channel id="archery.ip">
+    <display-name>Boise Archery</display-name>
+  </channel>
+  <channel id="outdog.ip">
+    <display-name>Outdoor Dog</display-name>
+  </channel>
+  <channel id="indog.ip">
+    <display-name>Indoor Dog</display-name>
+  </channel>
+  <channel id="laudbts.ip">
+    <display-name>Lauderdale-By-The-Sea</display-name>
+  </channel>
 
   <!--
     PROGRAMMES
@@ -303,7 +321,31 @@
     <title>Red Rocks (Live 24/7)</title>
     <desc>Live scenic cam overlooking a Red Rocks area.</desc>
   </programme>
-
+  <programme start="20260303T000000Z" stop="20260304T000000Z" channel="tank.ip">
+    <title>Ocean Tank (Live 24/7)</title>
+    <desc>Live Aquatic Tank.</desc>
+  </programme>
+  <programme start="20260303T000000Z" stop="20260304T000000Z" channel="portillo.ip">
+    <title>Portillo Ski Resort (Live 24/7)</title>
+    <desc>Live scenic cam overlooking Portillo Ski Resort.</desc>
+  </programme>
+  <programme start="20260303T000000Z" stop="20260304T000000Z" channel="archery.ip">
+    <title>Dead On Archery (Live 24/7)</title>
+    <desc>Live cam inside Dead On Archery in Boise.</desc>
+  </programme>  
+  <programme start="20260303T000000Z" stop="20260304T000000Z" channel="outdog.ip">
+    <title>Doggy Day Care Outdoor (Live 24/7)</title>
+    <desc>Live cam outside Doggy Day Care.</desc>
+  </programme>
+  <programme start="20260303T000000Z" stop="20260304T000000Z" channel="indog.ip">
+    <title>Doggy Day Care Indoor (Live 24/7)</title>
+    <desc>Live cam inside Doggy Day Care.</desc>
+  </programme>  
+  <programme start="20260303T000000Z" stop="20260304T000000Z" channel="laudbts.ip">
+    <title>Lauderdale-By-The-Sea (Live 24/7)</title>
+    <desc>Live scenic cam overlooking Lauderdale-By-The-Sea Resort.</desc>
+  </programme>
+  
   <!-- DAY 2: 2026-03-04 (same pattern, new dates) -->
 
   <programme start="20260304T000000Z" stop="20260305T000000Z" channel="Port.ip">
@@ -470,6 +512,30 @@
     <title>Red Rocks (Live 24/7)</title>
     <desc>Live scenic cam overlooking a Red Rocks area.</desc>
   </programme>
+  <programme start="20260304T000000Z" stop="20260305T000000Z" channel="tank.ip">
+    <title>Ocean Tank (Live 24/7)</title>
+    <desc>Live Aquatic Tank.</desc>
+  </programme>
+  <programme start="20260304T000000Z" stop="20260305T000000Z" channel="portillo.ip">
+    <title>Portillo Ski Resort (Live 24/7)</title>
+    <desc>Live scenic cam overlooking Portillo Ski Resort.</desc>
+  </programme>
+  <programme start="20260304T000000Z" stop="20260305T000000Z" channel="archery.ip">
+    <title>Dead On Archery (Live 24/7)</title>
+    <desc>Live cam inside Dead On Archery in Boise.</desc>
+  </programme>  
+  <programme start="20260304T000000Z" stop="20260305T000000Z" channel="outdog.ip">
+    <title>Doggy Day Care Outdoor (Live 24/7)</title>
+    <desc>Live cam outside Doggy Day Care.</desc>
+  </programme>
+  <programme start="20260304T000000Z" stop="20260305T000000Z" channel="indog.ip">
+    <title>Doggy Day Care Indoor (Live 24/7)</title>
+    <desc>Live cam inside Doggy Day Care.</desc>
+  </programme>  
+  <programme start="20260304T000000Z" stop="20260305T000000Z" channel="laudbts.ip">
+    <title>Lauderdale-By-The-Sea (Live 24/7)</title>
+    <desc>Live scenic cam overlooking Lauderdale-By-The-Sea Resort.</desc>
+  </programme>  
 
   <!-- DAY 3: 2026-03-05 (same pattern, new dates) -->
 
@@ -637,4 +703,28 @@
     <title>Red Rocks (Live 24/7)</title>
     <desc>Live scenic cam overlooking a Red Rocks area.</desc>
   </programme>
+  <programme start="20260305T000000Z" stop="20260306T000000Z" channel="tank.ip">
+    <title>Ocean Tank (Live 24/7)</title>
+    <desc>Live Aquatic Tank.</desc>
+  </programme>
+  <programme start="20260305T000000Z" stop="20260306T000000Z" channel="portillo.ip">
+    <title>Portillo Ski Resort (Live 24/7)</title>
+    <desc>Live scenic cam overlooking Portillo Ski Resort.</desc>
+  </programme>
+  <programme start="20260305T000000Z" stop="20260306T000000Z" channel="archery.ip">
+    <title>Dead On Archery (Live 24/7)</title>
+    <desc>Live cam inside Dead On Archery in Boise.</desc>
+  </programme>  
+  <programme start="20260305T000000Z" stop="20260306T000000Z" channel="outdog.ip">
+    <title>Doggy Day Care Outdoor (Live 24/7)</title>
+    <desc>Live cam outside Doggy Day Care.</desc>
+  </programme>
+  <programme start="20260305T000000Z" stop="20260306T000000Z" channel="indog.ip">
+    <title>Doggy Day Care Indoor (Live 24/7)</title>
+    <desc>Live cam inside Doggy Day Care.</desc>
+  </programme>  
+  <programme start="20260305T000000Z" stop="20260306T000000Z" channel="laudbts.ip">
+    <title>Lauderdale-By-The-Sea (Live 24/7)</title>
+    <desc>Live scenic cam overlooking Lauderdale-By-The-Sea Resort.</desc>
+  </programme>  
 </tv>
