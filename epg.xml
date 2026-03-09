@@ -145,6 +145,9 @@
   <channel id="laudbts.ip">
     <display-name>Lauderdale-By-The-Sea</display-name>
   </channel>
+  <channel id="golf.ip">
+    <display-name>Robert Jones Golf Course</display-name>
+  </channel>  
 
   <!--
     PROGRAMMES
