@@ -33,7 +33,7 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
 https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
 
 #EXTINF:-1 tvg-id="NO.ip" tvg-name="Bourbon Street" group-title="Live", Bourbon Street
-https://videos-3.earthcam.com/fecnetwork/4280.flv/chunklist_w1777105218.m3u8?t=Z8SpBH92uYu3pHPoOMZ+9zmlj1I9el/0SgTs+xGjkmvaQyC6pAGl2Aq7Fu9swZVn&td=202602182355
+https://videos-3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8?t=z96LKaYnWVQXaYYFAm8IpsH9JS%2BQlVEXBYPS02dZInGSSQsZOC64%2B4NuX7DXuxgn&td=202603090018
 
 #EXTINF:-1 tvg-id="SS.ip" tvg-name="Space Station" group-title="Live", Kennedy Space Center
 https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
@@ -139,6 +139,9 @@ https://s106.ipcamlive.com/streams/6aeqiiybx15cnek9w/stream.m3u8
 
 #EXTINF:-1 tvg-id="tank.ip" tvg-name="Ocean Tank Live" group-title="Live", Ocean Tank
 https://stream-us1-alfa.dropcam.com/nexus_aac/72b845b000454e9f94bdaf8330332c37/playlist.m3u8?public=MTvnUP75sm
+
+#EXTINF:-1 tvg-id="golf.ip" tvg-name="Robert Trent Jones Golf Course, Hilton Head Island" group-title="Live", Robert Trent Jones Golf Course
+https://reservations.palmettodunes.com/live/RTJ2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="portillo.ip" tvg-name="Portillo Ski Resort Live" group-title="Live", Portillo Ski Resort
 https://s40.ipcamlive.com/streams/28bj4qor9q2z5dm8c/stream.m3u8
