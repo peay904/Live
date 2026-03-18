@@ -157,3 +157,6 @@ https://s65.ipcamlive.com/streams/41ruz87l4qhtjgqe2/stream.m3u8
 
 #EXTINF:-1 tvg-id="laudbts.ip" tvg-name="Lauderdale-By-The-Sea Live" group-title="Live", Lauderdale-By-The-Sea
 https://e1-na8.angelcam.com/cameras/1571/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzI1NTIxOTMsIm5iZiI6MTc3MjU1MjA3MywiZXhwIjoxNzcyNTU5MzkzLCJkaWQiOiIxNTcxIn0.uw9fMQjN6xHx4dY6fDA2Edm3SBqeGVRE651B_HpzXzo
+
+#EXTINF:-1 tvg-id="mole.ip" tvg-name="Naked Mole Rats" Live" group-title="Live", Naked Mole Rat Cam
+https://nzp-wowza01.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
