@@ -160,3 +160,9 @@ https://e1-na8.angelcam.com/cameras/1571/streams/hls/playlist.m3u8?token=eyJ0eXA
 
 #EXTINF:-1 tvg-id="mole.ip" tvg-name="Naked Mole Rats" Live" group-title="Live", Naked Mole Rat Cam
 https://nzp-wowza01.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ccafe.ip" tvg-name="Cat Cafe Live" group-title="Live", Cat Cafe
+https://live.hdontap.com/hls/hosb3/cat-cafe_sandiego_lorex.stream/playlist.m3u8?t=nHppWzqNi2MlUHWsdip3ng&e=1773905803
+
+#EXTINF:-1 tvg-id="mole.ip" tvg-name="Naked Mole Rats" Live" group-title="Live", Naked Mole Rat Cam
+https://nzp-wowza01.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
