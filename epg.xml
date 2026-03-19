@@ -56,7 +56,10 @@
   </channel>
   <channel id="laudbts.ip">
     <display-name>Lauderdale-By-The-Sea Live</display-name>
-  </channel>
+  </channel
+  <channel id="ccafe.ip">
+    <display-name>Cat Cafe Live</display-name>
+  </channel>    
 
   <programme start="20200101000000 +0000" stop="20500101000000 +0000" channel="Maui.ip">
     <title lang="en">Live Stream 24/7</title>
@@ -134,4 +137,8 @@
     <title lang="en">Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
+  <programme start="20200101000000 +0000" stop="20500101000000 +0000" channel="ccafe.ip">
+    <title lang="en">Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>  
 </tv>
