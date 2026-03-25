@@ -1,310 +1,67 @@
 #!/usr/bin/env python3
 """
-EPG Generator for 24/7 Live Streams
-Generates XMLTV format EPG data for Dispatcharr/Jellyfin
+Generate XMLTV EPG with rolling 24-hour programme entries.
+Run daily via GitHub Actions to keep EPG current and avoid layout crashes.
 """
 
-from datetime import datetime, timedelta
-from xml.etree.ElementTree import Element, SubElement, ElementTree, tostring
-from xml.dom import minidom
-import argparse
+from datetime import datetime, timedelta, timezone
+import xml.etree.ElementTree as ET
 
-# Channel configuration
+DAYS_AHEAD = 3
+OUTPUT_FILE = "epg.xml"
+
 CHANNELS = [
-    {
-        'id': 'Port.ip',
-        'display_name': 'Port de Baie-Comeau',
-        'title': 'Port de Baie-Comeau',
-        'description': '24/7 live stream from Port de Baie-Comeau, Quebec',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'StGeorge.yt',
-        'display_name': 'St. George St, St Aug Live',
-        'title': 'St. George St, St Aug Live',
-        'description': 'St. George St, St Aug Live Stream',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'Schooners.ip',
-        'display_name': 'Schooners Bar',
-        'title': 'Schooners Bar Live',
-        'description': '24/7 live view of Schooners Bar in PCB',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'Playa.ip',
-        'display_name': 'Playa Palms Beach Hotel Live',
-        'title': 'Playa Palms Beach Hotel Live',
-        'description': '24/7 live Playa Palms Beach Hotel Mexico',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'Shoreline.ip',
-        'display_name': 'Shoreline Cam',
-        'title': 'Shoreline Cam',
-        'description': '24/7 live Shoreline Cam',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-    {
-        'id': 'PSB.ip',
-        'display_name': 'Pink Shell Beach',
-        'title': 'Pink Shell Beach Live',
-        'description': '24/7 live Pink Shell Beach',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Hog.ip',
-        'display_name': 'Hogs Breath Saloon Key West',
-        'title': 'Hogs Breath Saloon Key West',
-        'description': '24/7 live Hogs Breath Saloon',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Aqua.ip',
-        'display_name': 'Aqualand Moravia Czech Republic',
-        'title': 'Aqualand Moravia Czech Republic',
-        'description': '24/7 live Aqualand Moravia Czech Republic',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Roatan.ip',
-        'display_name': 'Roatan',
-        'title': 'Roatan Live',
-        'description': '24/7 live Roatan',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Maui.ip',
-        'display_name': 'Lahaina Maui',
-        'title': 'Lahaina Maui Live',
-        'description': '24/7 live Lahaina Maui',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Maldives.ip',
-        'display_name': 'Maldives',
-        'title': 'Maldives Live',
-        'description': '24/7 live Maldives',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Zambia.ip',
-        'display_name': 'Zambia',
-        'title': 'Lower Zambezi Natl Park - Zambia Live',
-        'description': '24/7 live Lower Zambezi Natl Park - Zambia',
-        'category': 'Live',
-        'timezone': '-0500'
-    },    
-        {
-        'id': 'Bald.ip',
-        'display_name': 'Bald Eagles Nest',
-        'title': 'Bald Eagles Nest Live',
-        'description': '24/7 live Bald Eagles Nest',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Tongass.ip',
-        'display_name': 'Tongass National Forest',
-        'title': 'Tongass National Forest Live',
-        'description': '24/7 live Tongass National Forest',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Aurora.ip',
-        'display_name': 'Aurora Borealis',
-        'title': 'Aurora Borealis Live',
-        'description': '24/7 live Aurora Borealis',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Reef.ip',
-        'display_name': 'Underwater Reef Cam',
-        'title': 'Underwater Reef Cam Live',
-        'description': '24/7 live Underwater Reef Cam',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Pup.ip',
-        'display_name': 'Puppy Cam',
-        'title': 'Puppy Cam Live',
-        'description': '24/7 live Puppy Cam',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Cat.ip',
-        'display_name': 'Kitty Cam',
-        'title': 'Kitty Cam Live',
-        'description': '24/7 live Kitty Cam',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Elephant.ip',
-        'display_name': 'Elephant Cam',
-        'title': 'Elephant Cam Live',
-        'description': '24/7 live Elephant Cam',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Waterhole.ip',
-        'display_name': 'Africam: Tau Waterhole',
-        'title': 'Africam: Tau Waterhole Live',
-        'description': '24/7 live au Waterhole',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Elvis.ip',
-        'display_name': 'Elvis Wedding Chapel - Vegas',
-        'title': 'Elvis Wedding Chapel',
-        'description': '24/7 live Elvis Wedding Chapel',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'Manatee.ip',
-        'display_name': '',
-        'title': 'Manatee Cam Live',
-        'description': '24/7 live Manatee Cam',
-        'category': 'Live',
-        'timezone': '-0500'
-    },
-        {
-        'id': 'KSC.ip',
-        'display_name': 'Kennendy Space Center',
-        'title': 'Kennedy Space Center Live',
-        'description': '24/7 live Kennedy Space Center',
-        'category': 'Live',
-        'timezone': '-0500'
-    }
+    {"id": "Maui.ip",        "name": "Lahaina Maui Live",                  "title": "Lahaina Maui Live Stream 24/7"},
+    {"id": "Bald.ip",        "name": "Bald Eagle's Nest Live",             "title": "Bald Eagle's Nest Live Stream 24/7"},
+    {"id": "Tongass.ip",     "name": "Tongass National Forest Live",       "title": "Tongass National Forest Live Stream 24/7"},
+    {"id": "Aurora.ip",      "name": "Aurora Borealis Live",               "title": "Aurora Borealis Live Stream 24/7"},
+    {"id": "Reef.ip",        "name": "Underwater Reef Cam Live",           "title": "Underwater Reef Live Stream 24/7"},
+    {"id": "Pup.ip",         "name": "Puppy Cam Live",                     "title": "Puppy Cam Live Stream 24/7"},
+    {"id": "Elephant.ip",    "name": "Africam: Elephant Park Live",        "title": "Africam: Elephant Park Live Stream 24/7"},
+    {"id": "Waterhole.ip",   "name": "Africam: Tau Waterhole Live",        "title": "Africam: Tau Waterhole Live Stream 24/7"},
+    {"id": "Joe.ip",         "name": "Sloppy Joe's Bar - Key West Live",   "title": "Sloppy Joe's Bar Live Stream 24/7"},
+    {"id": "Inn.ip",         "name": "Sunset Inn, Marathon FL Live",       "title": "Sunset Inn Live Stream 24/7"},
+    {"id": "car.ip",         "name": "Mississuaga Car Wash Live",          "title": "Mississuaga Car Wash Live Stream 24/7"},
+    {"id": "Skate.ip",       "name": "Nova Gorica skatepark Live",         "title": "Nova Gorica skatepark Live Stream 24/7"},
+    {"id": "cavallino.ip",   "name": "Cavallino-Treporti Live",            "title": "Cavallino-Treporti Live Stream 24/7"},
+    {"id": "Pigs.ip",        "name": "Costa Mesa pigs Live",               "title": "Costa Mesa pigs Live Stream 24/7"},
+    {"id": "pickleball.ip",  "name": "Head Island pickleball Live",        "title": "Head Island pickleball Live Stream 24/7"},
+    {"id": "archery.ip",     "name": "Dead On Archery Live",               "title": "Dead On Archery Live Stream 24/7"},
+    {"id": "outdog.ip",      "name": "Doggy Day Care Outdoor",             "title": "Doggy Day Care Outdoor Live Stream 24/7"},
+    {"id": "indog.ip",       "name": "Doggy Day Care Indoor",              "title": "Doggy Day Care Indoor Live Stream 24/7"},
+    {"id": "laudbts.ip",     "name": "Lauderdale-By-The-Sea Live",        "title": "Lauderdale-By-The-Sea Live Stream 24/7"},
+    {"id": "ccafe.ip",       "name": "Cat Cafe Live",                      "title": "Cat Cafe Live Stream 24/7"},
+    {"id": "space.ip",       "name": "Live From Space",                    "title": "Earth From Space Live Stream 24/7"},
 ]
 
-def format_time(dt, timezone):
-    """Format datetime to XMLTV format: YYYYMMDDHHmmss +/-HHMM"""
-    return dt.strftime('%Y%m%d%H%M%S') + ' ' + timezone
+def generate_epg():
+    tv = ET.Element("tv")
 
+    for ch in CHANNELS:
+        channel = ET.SubElement(tv, "channel", id=ch["id"])
+        ET.SubElement(channel, "display-name").text = ch["name"]
 
-def prettify_xml(elem):
-    """Return a pretty-printed XML string for the Element."""
-    rough_string = tostring(elem, encoding='utf-8')
-    reparsed = minidom.parseString(rough_string)
-    return reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
+    now = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
 
+    for ch in CHANNELS:
+        for day in range(DAYS_AHEAD):
+            start = now + timedelta(days=day)
+            stop  = start + timedelta(hours=24)
+            prog  = ET.SubElement(tv, "programme", attrib={
+                "start":   start.strftime("%Y%m%d%H%M%S +0000"),
+                "stop":    stop.strftime("%Y%m%d%H%M%S +0000"),
+                "channel": ch["id"],
+            })
+            ET.SubElement(prog, "title", lang="en").text = ch["title"]
+            ET.SubElement(prog, "desc",  lang="en").text = "This programming runs continuously without interruption."
 
-def generate_epg(days=14, output_file='epg.xml'):
-    """
-    Generate EPG XML file for the specified number of days
-    
-    Args:
-        days: Number of days to generate EPG data for (default: 14)
-        output_file: Output filename (default: epg.xml)
-    """
-    # Create root element
-    tv = Element('tv')
-    tv.set('generator-info-name', 'Live Stream EPG Generator')
-    
-    # Add channel definitions
-    for channel in CHANNELS:
-        channel_elem = SubElement(tv, 'channel')
-        channel_elem.set('id', channel['id'])
-        
-        display_name = SubElement(channel_elem, 'display-name')
-        display_name.text = channel['display_name']
-    
-    # Generate program entries
-    start_date = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-    
-    for day in range(days):
-        current_day = start_date + timedelta(days=day)
-        next_day = current_day + timedelta(days=1)
-        
-        for channel in CHANNELS:
-            programme = SubElement(tv, 'programme')
-            programme.set('start', format_time(current_day, channel['timezone']))
-            programme.set('stop', format_time(next_day, channel['timezone']))
-            programme.set('channel', channel['id'])
-            
-            title = SubElement(programme, 'title')
-            title.set('lang', 'en')
-            title.text = channel['title']
-            
-            desc = SubElement(programme, 'desc')
-            desc.set('lang', 'en')
-            desc.text = channel['description']
-            
-            category = SubElement(programme, 'category')
-            category.set('lang', 'en')
-            category.text = channel['category']
-    
-    # Write to file with pretty formatting
-    xml_string = prettify_xml(tv)
-    
-    # Add DOCTYPE declaration
-    doctype = '<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
-    xml_lines = xml_string.split('\n')
-    xml_lines.insert(1, doctype)
-    final_xml = '\n'.join(xml_lines)
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(final_xml)
-    
-    print(f"✓ EPG generated successfully: {output_file}")
-    print(f"✓ Generated {days} days of programming for {len(CHANNELS)} channels")
-    print(f"✓ Date range: {start_date.strftime('%Y-%m-%d')} to {(start_date + timedelta(days=days-1)).strftime('%Y-%m-%d')}")
+    tree = ET.ElementTree(tv)
+    ET.indent(tree, space="  ")
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        tree.write(f, encoding="unicode", xml_declaration=False)
 
+    print(f"Generated {OUTPUT_FILE}: {DAYS_AHEAD} days x {len(CHANNELS)} channels = {DAYS_AHEAD * len(CHANNELS)} entries.")
 
-def main():
-    parser = argparse.ArgumentParser(
-        description='Generate EPG XML for 24/7 live streams',
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  python generate_epg.py                    # Generate 14 days (default)
-  python generate_epg.py --days 30          # Generate 30 days
-  python generate_epg.py -o custom.xml      # Custom output filename
-  python generate_epg.py --days 7 -o epg.xml
-        """
-    )
-    
-    parser.add_argument(
-        '--days',
-        type=int,
-        default=14,
-        help='Number of days to generate EPG data for (default: 14)'
-    )
-    
-    parser.add_argument(
-        '-o', '--output',
-        type=str,
-        default='epg.xml',
-        help='Output filename (default: epg.xml)'
-    )
-    
-    args = parser.parse_args()
-    
-    if args.days < 1:
-        parser.error("Days must be at least 1")
-    
-    generate_epg(days=args.days, output_file=args.output)
-
-
-if __name__ == '__main__':
-    main()
+if __name__ == "__main__":
+    generate_epg()
