@@ -29,9 +29,11 @@ CHANNELS = [
     {"id": "archery.ip",     "name": "Dead On Archery Live",               "title": "Dead On Archery Live Stream 24/7"},
     {"id": "outdog.ip",      "name": "Doggy Day Care Outdoor",             "title": "Doggy Day Care Outdoor Live Stream 24/7"},
     {"id": "indog.ip",       "name": "Doggy Day Care Indoor",              "title": "Doggy Day Care Indoor Live Stream 24/7"},
-    {"id": "laudbts.ip",     "name": "Lauderdale-By-The-Sea Live",        "title": "Lauderdale-By-The-Sea Live Stream 24/7"},
+    {"id": "laudbts.ip",     "name": "Lauderdale-By-The-Sea Live",         "title": "Lauderdale-By-The-Sea Live Stream 24/7"},
     {"id": "ccafe.ip",       "name": "Cat Cafe Live",                      "title": "Cat Cafe Live Stream 24/7"},
     {"id": "space.ip",       "name": "Live From Space",                    "title": "Earth From Space Live Stream 24/7"},
+    {"id": "aberdare.ip",    "name": "Aberdare National Park, Kenya",      "title": "Aberdare National Park Live Stream 24/7"},
+    {"id": "lion.ip",        "name": "Smithsonian Lion Cam",               "title": "Smithsonian Lion Cam Live Stream 24/7"},    
 ]
 
 def generate_epg():
