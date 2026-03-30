@@ -69,10 +69,6 @@
   <channel id="lion.ip">
     <display-name>Smithsonian Lion Cam</display-name>
   </channel>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Maui.ip">
-    <title lang="en">Lahaina Maui Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -81,8 +77,8 @@
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Bald.ip">
-    <title lang="en">Bald Eagle's Nest Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Maui.ip">
+    <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Bald.ip">
@@ -93,8 +89,8 @@
     <title lang="en">Bald Eagle's Nest Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Tongass.ip">
-    <title lang="en">Tongass National Forest Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Bald.ip">
+    <title lang="en">Bald Eagle's Nest Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Tongass.ip">
@@ -105,8 +101,8 @@
     <title lang="en">Tongass National Forest Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Aurora.ip">
-    <title lang="en">Aurora Borealis Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Tongass.ip">
+    <title lang="en">Tongass National Forest Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Aurora.ip">
@@ -117,8 +113,8 @@
     <title lang="en">Aurora Borealis Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Reef.ip">
-    <title lang="en">Underwater Reef Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Aurora.ip">
+    <title lang="en">Aurora Borealis Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Reef.ip">
@@ -129,8 +125,8 @@
     <title lang="en">Underwater Reef Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Pup.ip">
-    <title lang="en">Puppy Cam Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Reef.ip">
+    <title lang="en">Underwater Reef Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Pup.ip">
@@ -141,8 +137,8 @@
     <title lang="en">Puppy Cam Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Elephant.ip">
-    <title lang="en">Africam: Elephant Park Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Pup.ip">
+    <title lang="en">Puppy Cam Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Elephant.ip">
@@ -153,8 +149,8 @@
     <title lang="en">Africam: Elephant Park Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Waterhole.ip">
-    <title lang="en">Africam: Tau Waterhole Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Elephant.ip">
+    <title lang="en">Africam: Elephant Park Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Waterhole.ip">
@@ -165,8 +161,8 @@
     <title lang="en">Africam: Tau Waterhole Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Joe.ip">
-    <title lang="en">Sloppy Joe's Bar Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Waterhole.ip">
+    <title lang="en">Africam: Tau Waterhole Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Joe.ip">
@@ -177,8 +173,8 @@
     <title lang="en">Sloppy Joe's Bar Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Inn.ip">
-    <title lang="en">Sunset Inn Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Joe.ip">
+    <title lang="en">Sloppy Joe's Bar Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Inn.ip">
@@ -189,8 +185,8 @@
     <title lang="en">Sunset Inn Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="car.ip">
-    <title lang="en">Mississuaga Car Wash Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Inn.ip">
+    <title lang="en">Sunset Inn Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="car.ip">
@@ -201,8 +197,8 @@
     <title lang="en">Mississuaga Car Wash Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Skate.ip">
-    <title lang="en">Nova Gorica skatepark Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="car.ip">
+    <title lang="en">Mississuaga Car Wash Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Skate.ip">
@@ -213,8 +209,8 @@
     <title lang="en">Nova Gorica skatepark Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="cavallino.ip">
-    <title lang="en">Cavallino-Treporti Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Skate.ip">
+    <title lang="en">Nova Gorica skatepark Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="cavallino.ip">
@@ -225,8 +221,8 @@
     <title lang="en">Cavallino-Treporti Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="Pigs.ip">
-    <title lang="en">Costa Mesa pigs Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="cavallino.ip">
+    <title lang="en">Cavallino-Treporti Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="Pigs.ip">
@@ -237,8 +233,8 @@
     <title lang="en">Costa Mesa pigs Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="pickleball.ip">
-    <title lang="en">Head Island pickleball Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="Pigs.ip">
+    <title lang="en">Costa Mesa pigs Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="pickleball.ip">
@@ -249,8 +245,8 @@
     <title lang="en">Head Island pickleball Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="archery.ip">
-    <title lang="en">Dead On Archery Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="pickleball.ip">
+    <title lang="en">Head Island pickleball Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="archery.ip">
@@ -261,8 +257,8 @@
     <title lang="en">Dead On Archery Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="outdog.ip">
-    <title lang="en">Doggy Day Care Outdoor Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="archery.ip">
+    <title lang="en">Dead On Archery Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="outdog.ip">
@@ -273,8 +269,8 @@
     <title lang="en">Doggy Day Care Outdoor Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="indog.ip">
-    <title lang="en">Doggy Day Care Indoor Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="outdog.ip">
+    <title lang="en">Doggy Day Care Outdoor Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="indog.ip">
@@ -285,8 +281,8 @@
     <title lang="en">Doggy Day Care Indoor Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="laudbts.ip">
-    <title lang="en">Lauderdale-By-The-Sea Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="indog.ip">
+    <title lang="en">Doggy Day Care Indoor Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="laudbts.ip">
@@ -297,8 +293,8 @@
     <title lang="en">Lauderdale-By-The-Sea Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="ccafe.ip">
-    <title lang="en">Cat Cafe Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="laudbts.ip">
+    <title lang="en">Lauderdale-By-The-Sea Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="ccafe.ip">
@@ -309,8 +305,8 @@
     <title lang="en">Cat Cafe Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="space.ip">
-    <title lang="en">Earth From Space Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="ccafe.ip">
+    <title lang="en">Cat Cafe Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="space.ip">
@@ -321,8 +317,8 @@
     <title lang="en">Earth From Space Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="aberdare.ip">
-    <title lang="en">Aberdare National Park Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="space.ip">
+    <title lang="en">Earth From Space Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="aberdare.ip">
@@ -333,8 +329,8 @@
     <title lang="en">Aberdare National Park Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260329000000 +0000" stop="20260330000000 +0000" channel="lion.ip">
-    <title lang="en">Smithsonian Lion Cam Live Stream 24/7</title>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="aberdare.ip">
+    <title lang="en">Aberdare National Park Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260330000000 +0000" stop="20260331000000 +0000" channel="lion.ip">
@@ -342,6 +338,10 @@
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260331000000 +0000" stop="20260401000000 +0000" channel="lion.ip">
+    <title lang="en">Smithsonian Lion Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260401000000 +0000" stop="20260402000000 +0000" channel="lion.ip">
     <title lang="en">Smithsonian Lion Cam Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
