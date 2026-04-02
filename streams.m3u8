@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-id="Port.ip" tvg-name="Port de Baie-Comeau" group-title="Live", Port de Baie-Comeau
 https://s137.ipcamlive.com/streams/89cpqlzov2azh0ih6/stream.m3u8
 
-#EXTINF:-1 tvg-id="StGeorge.yt" tvg-name="St. George St." group-title="Live", St. George St, St Aug Live
-https://anym3u8player.com/youtube.php/id/6992469c536dd.m3u8
-
-#EXTINF:-1 tvg-id="Schooners.ip" tvg-name="Schooners Bar Live" group-title="Live", Schooners Bar PCB
-https://s93.ipcamlive.com/streams/5dpj4cmbtuuzqhdxe/stream.m3u8
-
 #EXTINF:-1 tvg-id="Playa.ip" tvg-name="Playa Palms" group-title="Live", Playa Palms Beach Hotel
 https://s132.ipcamlive.com/streams/84ectnrwja0ntb64e/stream.m3u8
 
@@ -17,9 +11,6 @@ https://s93.ipcamlive.com/streams/5dniuyez7ilsexjoz/stream.m3u8
 #EXTINF:-1 tvg-id="PSB.ip" tvg-name="Pink Shell Beach" group-title="Live", Pink Shell Beach
 https://e1-na8.angelcam.com/cameras/77018/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzExOTY4MjEsIm5iZiI6MTc3MTE5NjcwMSwiZXhwIjoxNzcxMjA0MDIxLCJkaWQiOiI3NzAxOCJ9.TDjfMNOeF99Nf6WsL0_grOQmopiNAW6sZYI31eQCvqE
 
-#EXTINF:-1 tvg-id="Aqua.ip" tvg-name="Aqualand" group-title="Live", Aqualand Moravia Czech Republic
-https://aqualand.e.smartcams.cz/smartcam-aqualand/952eff7f0753469c2ca72cd78a249194/4.smil/chunklist_b851968.m3u8
-
 #EXTINF:-1 tvg-id="Roatan.ip" tvg-name="Roatan" group-title="Live", Roatan
 https://videos-3.earthcam.com/fecnetwork/40604.flv/chunklist_w1328250895.m3u8?t=iy62+obDnYmGN81bEMbiaMTtY5varBaofYE+tLjOQd9069v/40XNYu2Ti/1JpUdl&cid=
 
@@ -28,15 +19,6 @@ https://stream-uc2-bravo.dropcam.com/nexus_aac/e8e5758e39ee4b80b413f2b0ffca7986/
 
 #EXTINF:-1 tvg-id="Maldives.ip" tvg-name="Maldives" group-title="Live", Maldives
 https://hd-auth.skylinewebcams.com/live.m3u8?a=mvrsn5pmtoc2sfsojd0lpu90m0
-
-#EXTINF:-1 tvg-id="Zambia.ip" tvg-name="Zambia" group-title="Live", Lower Zambezi Natl Park - Zambia
-https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
-
-#EXTINF:-1 tvg-id="NO.ip" tvg-name="Bourbon Street" group-title="Live", Bourbon Street
-https://videos-3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8?t=z96LKaYnWVQXaYYFAm8IpsH9JS%2BQlVEXBYPS02dZInGSSQsZOC64%2B4NuX7DXuxgn&td=202603090018
-
-#EXTINF:-1 tvg-id="SS.ip" tvg-name="Space Station" group-title="Live", Kennedy Space Center
-https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
 
 #EXTINF:-1 tvg-id="Bald.ip" tvg-name="Bald Eagle's Nest" group-title="Live", Bald Eagle's Nest
 https://outbound-production.explore.org/stream-production-64/.m3u8
@@ -68,9 +50,6 @@ https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3
 #EXTINF:-1 tvg-id="Manatee.ip" tvg-name="Manatee Cam Live" group-title="Live", Manatee Cam
 https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1636942416.m3u8
 
-#EXTINF:-1 tvg-id="Elvis.ip" tvg-name="Elvis Wedding Chapel Live" group-title="Live", Elvis Wedding Chapel, Las Vegas
-https://videos-3.earthcam.com/fecnetwork/21001.flv/chunklist_w1693981173.m3u8?t=4TEG5DXgq8kVzQMe9xA5gwjTWacE8/7dXnAVLVdMCf5Dma6jl5Dq9nadSjMajuBh&td=202602171442
-
 #EXTINF:-1 tvg-id="Joe.ip" tvg-name="Sloppy Joe's Live" group-title="Live", Sloppy Joe's Bar - Key West
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt19793.rc0.smil/playlist.m3u8
 
@@ -80,50 +59,8 @@ https://s69.ipcamlive.com/streams/45zqb7gcjua5er0xv/stream.m3u8
 #EXTINF:-1 tvg-id="car.ip" tvg-name="Mississuaga Car Wash" group-title="Live", Mississuaga Car Wash
 https://video1.earthcam.com/myearthcam/c71aa1b4e1723779b2d06cb21df8076e.flv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jax.ip" tvg-name="Downtown Jacksonville Live" group-title="Live", Downtown Jacksonville
-https://amg00327-coxmediagroup-wjaxnow-ono-82fst.amagi.tv/ts-us-e2-n2/playlist/amg00327-coxmediagroup-wjaxnow-ono/03b2322c-16b5-11f1-9623-d2cd5fbc1cb6/160/426x240_511680/index.m3u8
-
-#EXTINF:-1 tvg-id="Stromboli.ip" tvg-name="Stromboli Volcano Live" group-title="Live", Stromboli Volcano
-https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
-
-#EXTINF:-1 tvg-id="Flagler.ip" tvg-name="Flagler Beach Live" group-title="Live", Flagler Beach
-https://s140.ipcamlive.com/streams/8cyliwvklkme0z8id/stream.m3u8
-
-#EXTINF:-1 tvg-id="Schooners.ip" tvg-name="Schooners Bar Live" group-title="Live", Schooners Bar
-https://s30.ipcamlive.com/streams/1eyjr95da4p0nsphh/stream.m3u8
-
-#EXTINF:-1 tvg-id="Playa.ip" tvg-name="Playa Del Carmen Live" group-title="Live", Playa Del Carmen
-https://s81.ipcamlive.com/streams/51ipm8tsveow7zf4o/stream.m3u8
-
-#EXTINF:-1 tvg-id="Cabarete.ip" tvg-name="Cabarate Live" group-title="Live", Cabarete
-https://s140.ipcamlive.com/streams/8cmluliinvkvzxan9/stream.m3u8
-
 #EXTINF:-1 tvg-id="Skate.ip" tvg-name="Nova Gorica skatepark Live" group-title="Live", Nova Gorica skatepark
 https://cdn-006.whatsupcams.com/hls/si_ngsk3.m3u8
-
-#EXTINF:-1 tvg-id="Deck.ip" tvg-name="Sharkys Deck Live" group-title="Live", Sharkys Deck
-https://s133.ipcamlive.com/streams/85vdzuymygcptk9il/stream.m3u8
-
-#EXTINF:-1 tvg-id="Sharky.ip" tvg-name="Sharkys Beach Live" group-title="Live", Sharkys Beach
-https://s111.ipcamlive.com/streams/6fn54fc3ngqwjr8oi/stream.m3u8
-
-#EXTINF:-1 tvg-id="Cabarete.ip" tvg-name="Cabarate Live" group-title="Live", Cabarete
-https://s140.ipcamlive.com/streams/8cmluliinvkvzxan9/stream.m3u8
-
-#EXTINF:-1 tvg-id="Skate.ip" tvg-name="Nova Gorica skatepark Live" group-title="Live", Nova Gorica skatepark
-https://cdn-006.whatsupcams.com/hls/si_ngsk3.m3u8
-
-#EXTINF:-1 tvg-id="Deck.ip" tvg-name="Sharkys Deck Live" group-title="Live", Sharkys Deck
-https://s133.ipcamlive.com/streams/85vdzuymygcptk9il/stream.m3u8
-
-#EXTINF:-1 tvg-id="Sharky.ip" tvg-name="Sharkys Beach Live" group-title="Live", Sharkys Beach
-https://s111.ipcamlive.com/streams/6fn54fc3ngqwjr8oi/stream.m3u8
-
-#EXTINF:-1 tvg-id="Parrott.ip" tvg-name="Green Parrott Stage Live" group-title="Live", Green Parrott Stage
-https://stream.resortcams.com/live-greenparrot/smil:greenparrot2.smil/chunklist_b2048000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Skid.ip" tvg-name="Skid Row Live" group-title="Live", Skid Row
-https://s109.ipcamlive.com/streams/6dpxmbfmwka8ucee9/stream.m3u8
 
 #EXTINF:-1 tvg-id="cavallino.ip" tvg-name="Cavallino-Treporti Live" group-title="Live", Cavallino-Treporti
 https://stream1.panocloud.com/marinadivenezia/marinadivenezia.stream/playlist.m3u8
@@ -134,36 +71,23 @@ https://vdn.terrafox.com/oc-fair/pig-1/playlist.m3u8
 #EXTINF:-1 tvg-id="pickleball.ip" tvg-name="Head Island pickleball Live" group-title="Live", Head Island pickleball
 https://reservations.palmettodunes.com/live/pickleball.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rocks.ip" tvg-name="Red Rocks Live" group-title="Live", Red Rocks
-https://s106.ipcamlive.com/streams/6aeqiiybx15cnek9w/stream.m3u8
-
-#EXTINF:-1 tvg-id="tank.ip" tvg-name="Ocean Tank Live" group-title="Live", Ocean Tank
-https://stream-us1-alfa.dropcam.com/nexus_aac/72b845b000454e9f94bdaf8330332c37/playlist.m3u8?public=MTvnUP75sm
-
-#EXTINF:-1 tvg-id="golf.ip" tvg-name="Robert Trent Jones Golf Course, Hilton Head Island" group-title="Live", Robert Trent Jones Golf Course
-https://reservations.palmettodunes.com/live/RTJ2.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="portillo.ip" tvg-name="Portillo Ski Resort Live" group-title="Live", Portillo Ski Resort
 https://s40.ipcamlive.com/streams/28bj4qor9q2z5dm8c/stream.m3u8
-
-#EXTINF:-1 tvg-id="mole.ip" tvg-name="Naked Mole Rats" Live" group-title="Live", Naked Mole Rat Cam
-https://nzp-wowza01.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ccafe.ip" tvg-name="Cat Cafe Live" group-title="Live", Cat Cafe
-https://live.hdontap.com/hls/hosb3/cat-cafe_sandiego_lorex.stream/playlist.m3u8?t=nHppWzqNi2MlUHWsdip3ng&e=1773905803
-
-#EXTINF:-1 tvg-id="aberdare.ip" tvg-name="Africam: Aberdare National Park, Kenya" group-title="Live", Aberdare National Park
-https://e1-eu3.angelcam.com/cameras/889/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzQ1ODUyMjQsIm5iZiI6MTc3NDU4NTEwNCwiZXhwIjoxNzc0NTkyNDI0LCJkaWQiOiI4ODkifQ%2Ea%5FKFTmMni5dLZKfNZcpsh%2DVH7a3Vgaf24ORgkq5VeGE
-
-#EXTINF:-1 tvg-id="lion.ip" tvg-name="Smithsonian Lion Cam" group-title="Live", Smithsonian Lion Cam
-https://nzp-wowza02.si.edu/live_edge_lion/smil:lion01_all.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rome.ip" tvg-name="Trevi Fountain - Rome Live cam" group-title="Live", Trevi Fountain - Rome Live cam
 https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
 
-#EXTINF:-1 tvg-id="ape.ip" tvg-name="Ape Cam" group-title="Live", Ape Cam
-https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist_w242956787.m3u8
+#EXTINF:-1 tvg-id="nyc.ip" tvg-name="Times Square Live Cam" group-title="Live", Times Square Live
+https://videos-3.earthcam.com/fecnetwork/1415.flv/chunklist_w355099680.m3u8?t=IAUnyrzNcLE5GBw9sRCY5s9aOt6IMWeMyUb5NZSuTDhGvhXXRWrc68jkqEstiEyb&td=202604021643
 
-#EXTINF:-1 tvg-id="spain.ip" tvg-name="Benalmadena, Puerto Marina" group-title="Live", Benalmadena, Puerto Marina
-https://livecam.meteo365.es/hls_live/benclub.m3u8
+#EXTINF:-1 tvg-id="penguin.ip" tvg-name="Penguins Live Cam" group-title="Live", Live Penguins
+https://n1.burst.cdn.jetstre.am/session/8bfb8f825e1b29d2cfb8905d8e915a7f/sz/streamdays/wowza4/live/EdinburghZoo-Penguins-1378/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="tiger.ip" tvg-name="Tigers Live" group-title="Live", Live Tigers
+https://n2.burst.cdn.jetstre.am/session/965924779784b618b9e2ae55c9c4c491/sz/streamdays/wowza4/live/EdinburghZoo-Tiger-1378/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="smpark.ip" tvg-name="Santa Monica-Pacific Park Live" group-title="Live", Santa Monica-Pacific Live
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kwpxbpv.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt19793.rc0.edge.vpass.stream/chunklist_w182872537.m3u8
+
+#EXTINF:-1 tvg-id="smpier.ip" tvg-name="Santa Monica Pier Live" group-title="Live", Santa Monica Pier
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ikdybp6.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt19793.rc0.edge.vpass.stream/chunklist_w1634518661.m3u8
