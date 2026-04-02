@@ -34,6 +34,8 @@ CHANNELS = [
     {"id": "tiger.ip",       "name": "Live Tiger Cam",                     "title": "Tigers Live Stream 24/7"},
     {"id": "smpark.ip",      "name": "Santa Monica-Pacific Park",          "title": "Santa Monica-Pacific Park Live Stream 24/7"},
     {"id": "smpier.ip",      "name": "Santa Monica Pier Live",             "title": "Santa Monica Pier Live Stream 24/7"},
+    {"id": "lodge.ip",       "name": "Nessie Cam-Shoreland Lodges",        "title": "Nessie Cam-Shoreland Lodges Live Stream 24/7"},
+    {"id": "pine.ip",        "name": "Nessie Cam-Pinewood Steading Live",  "title": "Nessie Cam-Pinewood Steading Live Stream 24/7"},    
 ]
 
 def generate_epg():
