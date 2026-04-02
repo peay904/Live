@@ -33,7 +33,10 @@ CHANNELS = [
     {"id": "ccafe.ip",       "name": "Cat Cafe Live",                      "title": "Cat Cafe Live Stream 24/7"},
     {"id": "space.ip",       "name": "Live From Space",                    "title": "Earth From Space Live Stream 24/7"},
     {"id": "aberdare.ip",    "name": "Aberdare National Park, Kenya",      "title": "Aberdare National Park Live Stream 24/7"},
-    {"id": "lion.ip",        "name": "Smithsonian Lion Cam",               "title": "Smithsonian Lion Cam Live Stream 24/7"},    
+    {"id": "lion.ip",        "name": "Smithsonian Lion Cam",               "title": "Smithsonian Lion Cam Live Stream 24/7"},
+    {"id": "rome.ip",        "name": "Trevi Fountain - Rome Live cam",     "title": "Trevi Fountain Live Stream 24/7"},
+    {"id": "ape.ip",         "name": "Ape Cam",                            "title": "Ape Cam Live Stream 24/7"},
+    {"id": "spain.ip",       "name": "Benalmadena, Puerto Marina",         "title": "Benalmadena, Puerto Marina Live Stream 24/7"},
 ]
 
 def generate_epg():
