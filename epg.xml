@@ -69,6 +69,15 @@
   <channel id="lion.ip">
     <display-name>Smithsonian Lion Cam</display-name>
   </channel>
+  <channel id="rome.ip">
+    <display-name>Trevi Fountain - Rome Live cam</display-name>
+  </channel>
+  <channel id="ape.ip">
+    <display-name>Ape Cam</display-name>
+  </channel>
+  <channel id="spain.ip">
+    <display-name>Benalmadena, Puerto Marina</display-name>
+  </channel>
   <programme start="20260402000000 +0000" stop="20260403000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -343,6 +352,42 @@
   </programme>
   <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="lion.ip">
     <title lang="en">Smithsonian Lion Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260402000000 +0000" stop="20260403000000 +0000" channel="rome.ip">
+    <title lang="en">Trevi Fountain Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="rome.ip">
+    <title lang="en">Trevi Fountain Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="rome.ip">
+    <title lang="en">Trevi Fountain Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260402000000 +0000" stop="20260403000000 +0000" channel="ape.ip">
+    <title lang="en">Ape Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="ape.ip">
+    <title lang="en">Ape Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="ape.ip">
+    <title lang="en">Ape Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260402000000 +0000" stop="20260403000000 +0000" channel="spain.ip">
+    <title lang="en">Benalmadena, Puerto Marina Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="spain.ip">
+    <title lang="en">Benalmadena, Puerto Marina Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="spain.ip">
+    <title lang="en">Benalmadena, Puerto Marina Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
 </tv>
