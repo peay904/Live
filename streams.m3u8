@@ -91,3 +91,9 @@ https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kwpxbpv.fd0.sm1.
 
 #EXTINF:-1 tvg-id="smpier.ip" tvg-name="Santa Monica Pier Live" group-title="Live", Santa Monica Pier
 https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ikdybp6.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt19793.rc0.edge.vpass.stream/chunklist_w1634518661.m3u8
+
+#EXTINF:-1 tvg-id="lodge.ip" tvg-name="Nessie Cam-Shoreland Lodges" group-title="Live", Nessie Cam-Shoreland Lodges
+https://s25.ipcamlive.com/streams/19b4fhjnpl6fdrep8/stream.m3u8
+
+#EXTINF:-1 tvg-id="pine.ip" tvg-name="Nessie Cam-Pinewood Steading" group-title="Live", Nessie Cam-Pinewood Steading
+https://s15.ipcamlive.com/streams/0fkf6kda7xmajd31q/stream.m3u8
