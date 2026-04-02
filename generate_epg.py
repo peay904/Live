@@ -26,17 +26,14 @@ CHANNELS = [
     {"id": "cavallino.ip",   "name": "Cavallino-Treporti Live",            "title": "Cavallino-Treporti Live Stream 24/7"},
     {"id": "Pigs.ip",        "name": "Costa Mesa pigs Live",               "title": "Costa Mesa pigs Live Stream 24/7"},
     {"id": "pickleball.ip",  "name": "Head Island pickleball Live",        "title": "Head Island pickleball Live Stream 24/7"},
-    {"id": "archery.ip",     "name": "Dead On Archery Live",               "title": "Dead On Archery Live Stream 24/7"},
     {"id": "outdog.ip",      "name": "Doggy Day Care Outdoor",             "title": "Doggy Day Care Outdoor Live Stream 24/7"},
     {"id": "indog.ip",       "name": "Doggy Day Care Indoor",              "title": "Doggy Day Care Indoor Live Stream 24/7"},
-    {"id": "laudbts.ip",     "name": "Lauderdale-By-The-Sea Live",         "title": "Lauderdale-By-The-Sea Live Stream 24/7"},
-    {"id": "ccafe.ip",       "name": "Cat Cafe Live",                      "title": "Cat Cafe Live Stream 24/7"},
-    {"id": "space.ip",       "name": "Live From Space",                    "title": "Earth From Space Live Stream 24/7"},
-    {"id": "aberdare.ip",    "name": "Aberdare National Park, Kenya",      "title": "Aberdare National Park Live Stream 24/7"},
     {"id": "lion.ip",        "name": "Smithsonian Lion Cam",               "title": "Smithsonian Lion Cam Live Stream 24/7"},
-    {"id": "rome.ip",        "name": "Trevi Fountain - Rome Live cam",     "title": "Trevi Fountain Live Stream 24/7"},
-    {"id": "ape.ip",         "name": "Ape Cam",                            "title": "Ape Cam Live Stream 24/7"},
-    {"id": "spain.ip",       "name": "Benalmadena, Puerto Marina",         "title": "Benalmadena, Puerto Marina Live Stream 24/7"},
+    {"id": "nyc.ip",         "name": "Times Square Live Cam",              "title": "Times Square Live Cam 24/7"},
+    {"id": "penguin.ip",     "name": "Penguins Live Cam",                  "title": "Penguins Live Stream 24/7"},
+    {"id": "tiger.ip",       "name": "Live Tiger Cam",                     "title": "Tigers Live Stream 24/7"},
+    {"id": "smpark.ip",      "name": "Santa Monica-Pacific Park",          "title": "Santa Monica-Pacific Park Live Stream 24/7"},
+    {"id": "smpier.ip",      "name": "Santa Monica Pier Live",             "title": "Santa Monica Pier Live Stream 24/7"},
 ]
 
 def generate_epg():
