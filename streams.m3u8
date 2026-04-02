@@ -146,18 +146,6 @@ https://reservations.palmettodunes.com/live/RTJ2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="portillo.ip" tvg-name="Portillo Ski Resort Live" group-title="Live", Portillo Ski Resort
 https://s40.ipcamlive.com/streams/28bj4qor9q2z5dm8c/stream.m3u8
 
-#EXTINF:-1 tvg-id="archery.ip" tvg-name="Boise Archery Live" group-title="Live", Boise Archery
-https://mia.rtsp.me/fFBEshS281Z-rVqBYyHnCA/1772556908/hls/hbS7iTt6.m3u8?ip=108.200.197.108
-
-#EXTINF:-1 tvg-id="outdog.ip" tvg-name="Dog Outdoor Live" group-title="Live", Dog Outdoor
-https://s66.ipcamlive.com/streams/42uqkqxox23wifvbn/stream.m3u8
-
-#EXTINF:-1 tvg-id="indog.ip" tvg-name="Dog Indoor Live" group-title="Live", Dog Indoor
-https://s65.ipcamlive.com/streams/41ruz87l4qhtjgqe2/stream.m3u8
-
-#EXTINF:-1 tvg-id="laudbts.ip" tvg-name="Lauderdale-By-The-Sea Live" group-title="Live", Lauderdale-By-The-Sea
-https://e1-na8.angelcam.com/cameras/1571/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzI1NTIxOTMsIm5iZiI6MTc3MjU1MjA3MywiZXhwIjoxNzcyNTU5MzkzLCJkaWQiOiIxNTcxIn0.uw9fMQjN6xHx4dY6fDA2Edm3SBqeGVRE651B_HpzXzo
-
 #EXTINF:-1 tvg-id="mole.ip" tvg-name="Naked Mole Rats" Live" group-title="Live", Naked Mole Rat Cam
 https://nzp-wowza01.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
 
@@ -169,4 +157,13 @@ https://e1-eu3.angelcam.com/cameras/889/streams/hls/playlist.m3u8?token=eyJ0eXAi
 
 #EXTINF:-1 tvg-id="lion.ip" tvg-name="Smithsonian Lion Cam" group-title="Live", Smithsonian Lion Cam
 https://nzp-wowza02.si.edu/live_edge_lion/smil:lion01_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rome.ip" tvg-name="Trevi Fountain - Rome Live cam" group-title="Live", Trevi Fountain - Rome Live cam
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
+
+#EXTINF:-1 tvg-id="ape.ip" tvg-name="Ape Cam" group-title="Live", Ape Cam
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist_w242956787.m3u8
+
+#EXTINF:-1 tvg-id="spain.ip" tvg-name="Benalmadena, Puerto Marina" group-title="Live", Benalmadena, Puerto Marina
+https://livecam.meteo365.es/hls_live/benclub.m3u8
 
