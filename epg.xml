@@ -75,6 +75,45 @@
   <channel id="pine.ip">
     <display-name>Nessie Cam-Pinewood Steading Live</display-name>
   </channel>
+  <channel id="bay.ip">
+    <display-name>Bayfront Park, Miami Live</display-name>
+  </channel>
+  <channel id="wrogley.ip">
+    <display-name>Wrigley Field Live</display-name>
+  </channel>
+  <channel id="cedar.ip">
+    <display-name>Cedar Key Live</display-name>
+  </channel>
+  <channel id="butterfly.ip">
+    <display-name>Butterfly House Live</display-name>
+  </channel>
+  <channel id="jelly.ip">
+    <display-name>Moon Jellies Live</display-name>
+  </channel>
+  <channel id="ohio.ip">
+    <display-name>Ohio Birdfeeder Live</display-name>
+  </channel>
+  <channel id="petes.ip">
+    <display-name>Peg Leg Petes Live</display-name>
+  </channel>
+  <channel id="sharkbeach.ip">
+    <display-name>Sharkys Beach Cam Live</display-name>
+  </channel>
+  <channel id="sharkdeck.ip">
+    <display-name>Sharkys Deck Cam Live</display-name>
+  </channel>
+  <channel id="schooners.ip">
+    <display-name>Schooners Bar Live</display-name>
+  </channel>
+  <channel id="wharf.ip">
+    <display-name>Schooners Wharf Live</display-name>
+  </channel>
+  <channel id="willy.ip">
+    <display-name>Pineapple Willys Live</display-name>
+  </channel>
+  <channel id="fish.ip">
+    <display-name>North Carolina Fishing Pier Live</display-name>
+  </channel>
   <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -373,6 +412,162 @@
   </programme>
   <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="pine.ip">
     <title lang="en">Nessie Cam-Pinewood Steading Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="bay.ip">
+    <title lang="en">Bayfront Park, Miami Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="bay.ip">
+    <title lang="en">Bayfront Park, Miami Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="bay.ip">
+    <title lang="en">Bayfront Park, Miami Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="wrogley.ip">
+    <title lang="en">Wrigley Field Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="wrogley.ip">
+    <title lang="en">Wrigley Field Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="wrogley.ip">
+    <title lang="en">Wrigley Field Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="cedar.ip">
+    <title lang="en">Cedar Key Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="cedar.ip">
+    <title lang="en">Cedar Key Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="cedar.ip">
+    <title lang="en">Cedar Key Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="butterfly.ip">
+    <title lang="en">Butterfly House Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="butterfly.ip">
+    <title lang="en">Butterfly House Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="butterfly.ip">
+    <title lang="en">Butterfly House Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="jelly.ip">
+    <title lang="en">Moon Jellies Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="jelly.ip">
+    <title lang="en">Moon Jellies Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="jelly.ip">
+    <title lang="en">Moon Jellies Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="ohio.ip">
+    <title lang="en">Ohio Birdfeeder Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="ohio.ip">
+    <title lang="en">Ohio Birdfeeder Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="ohio.ip">
+    <title lang="en">Ohio Birdfeeder Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="petes.ip">
+    <title lang="en">Peg Leg Petes Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="petes.ip">
+    <title lang="en">Peg Leg Petes Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="petes.ip">
+    <title lang="en">Peg Leg Petes Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="sharkbeach.ip">
+    <title lang="en">Sharkys Beach Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="sharkbeach.ip">
+    <title lang="en">Sharkys Beach Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="sharkbeach.ip">
+    <title lang="en">Sharkys Beach Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="sharkdeck.ip">
+    <title lang="en">Sharkys Deck Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="sharkdeck.ip">
+    <title lang="en">Sharkys Deck Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="sharkdeck.ip">
+    <title lang="en">Sharkys Deck Cam Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="schooners.ip">
+    <title lang="en">Schooners Bar Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="schooners.ip">
+    <title lang="en">Schooners Bar Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="schooners.ip">
+    <title lang="en">Schooners Bar Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="wharf.ip">
+    <title lang="en">Schooners Wharf Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="wharf.ip">
+    <title lang="en">Schooners Wharf Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="wharf.ip">
+    <title lang="en">Schooners Wharf Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="willy.ip">
+    <title lang="en">Pineapple Willys Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="willy.ip">
+    <title lang="en">Pineapple Willys Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="willy.ip">
+    <title lang="en">Pineapple Willys Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260404000000 +0000" channel="fish.ip">
+    <title lang="en">North Carolina Fishing Pier Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="fish.ip">
+    <title lang="en">North Carolina Fishing Pier Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="fish.ip">
+    <title lang="en">North Carolina Fishing Pier Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
 </tv>
