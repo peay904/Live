@@ -37,6 +37,18 @@ CHANNELS = [
     {"id": "lodge.ip",       "name": "Nessie Cam-Shoreland Lodges",        "title": "Nessie Cam-Shoreland Lodges Live Stream 24/7"},
     {"id": "pine.ip",        "name": "Nessie Cam-Pinewood Steading Live",  "title": "Nessie Cam-Pinewood Steading Live Stream 24/7"},
     {"id": "bay.ip",         "name": "Bayfront Park, Miami Live",          "title": "Bayfront Park, Miami Live Stream 24/7"},
+    {"id": "wrogley.ip",     "name": "Wrigley Field Live",                 "title": "Wrigley Field Live Stream 24/7"},
+    {"id": "cedar.ip",       "name": "Cedar Key Live",                     "title": "Cedar Key Live Stream 24/7"},
+    {"id": "butterfly.ip",   "name": "Butterfly House Live",               "title": "Butterfly House Live Stream 24/7"},
+    {"id": "jelly.ip",       "name": "Moon Jellies Live",                  "title": "Moon Jellies Live Stream 24/7"},
+    {"id": "ohio.ip",        "name": "Ohio Birdfeeder Live",               "title": "Ohio Birdfeeder Live Stream 24/7"},
+    {"id": "petes.ip",       "name": "Peg Leg Petes Live",                 "title": "Peg Leg Petes Live Stream 24/7"},
+    {"id": "sharkbeach.ip",  "name": "Sharkys Beach Cam Live",             "title": "Sharkys Beach Cam Live Stream 24/7"},
+    {"id": "sharkdeck.ip",   "name": "Sharkys Deck Cam Live",              "title": "Sharkys Deck Cam Live Stream 24/7"},
+    {"id": "schooners.ip",   "name": "Schooners Bar Live",                 "title": "Schooners Bar Live Stream 24/7"},
+    {"id": "wharf.ip",       "name": "Schooners Wharf Live",               "title": "Schooners Wharf Live Stream 24/7"},
+    {"id": "willy.ip",       "name": "Pineapple Willys Live",              "title": "Pineapple Willys Live Stream 24/7"},
+    {"id": "fish.ip",        "name": "North Carolina Fishing Pier Live",   "title": "North Carolina Fishing Pier Live Stream 24/7"},
 ]
 
 def generate_epg():
