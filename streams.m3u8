@@ -53,32 +53,14 @@ https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1636942416.m3
 #EXTINF:-1 tvg-id="Joe.ip" tvg-name="Sloppy Joe's Live" group-title="Live", Sloppy Joe's Bar - Key West
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt19793.rc0.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Inn.ip" tvg-name="Sunset Inn Live" group-title="Live", Sunset Inn, Marathon, FL
-https://s69.ipcamlive.com/streams/45zqb7gcjua5er0xv/stream.m3u8
-
-#EXTINF:-1 tvg-id="car.ip" tvg-name="Mississuaga Car Wash" group-title="Live", Mississuaga Car Wash
-https://video1.earthcam.com/myearthcam/c71aa1b4e1723779b2d06cb21df8076e.flv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Skate.ip" tvg-name="Nova Gorica skatepark Live" group-title="Live", Nova Gorica skatepark
 https://cdn-006.whatsupcams.com/hls/si_ngsk3.m3u8
-
-#EXTINF:-1 tvg-id="cavallino.ip" tvg-name="Cavallino-Treporti Live" group-title="Live", Cavallino-Treporti
-https://stream1.panocloud.com/marinadivenezia/marinadivenezia.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pigs.ip" tvg-name="Costa Mesa pigs Live" group-title="Live", Costa Mesa pigs
 https://vdn.terrafox.com/oc-fair/pig-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pickleball.ip" tvg-name="Head Island pickleball Live" group-title="Live", Head Island pickleball
 https://reservations.palmettodunes.com/live/pickleball.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="portillo.ip" tvg-name="Portillo Ski Resort Live" group-title="Live", Portillo Ski Resort
-https://s40.ipcamlive.com/streams/28bj4qor9q2z5dm8c/stream.m3u8
-
-#EXTINF:-1 tvg-id="rome.ip" tvg-name="Trevi Fountain - Rome Live cam" group-title="Live", Trevi Fountain - Rome Live cam
-https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
-
-#EXTINF:-1 tvg-id="nyc.ip" tvg-name="Times Square Live Cam" group-title="Live", Times Square Live
-https://videos-3.earthcam.com/fecnetwork/1415.flv/chunklist_w355099680.m3u8?t=IAUnyrzNcLE5GBw9sRCY5s9aOt6IMWeMyUb5NZSuTDhGvhXXRWrc68jkqEstiEyb&td=202604021643
 
 #EXTINF:-1 tvg-id="penguin.ip" tvg-name="Penguins Live Cam" group-title="Live", Live Penguins
 https://n1.burst.cdn.jetstre.am/session/8bfb8f825e1b29d2cfb8905d8e915a7f/sz/streamdays/wowza4/live/EdinburghZoo-Penguins-1378/chunklist.m3u8
@@ -100,3 +82,9 @@ https://s15.ipcamlive.com/streams/0fkf6kda7xmajd31q/stream.m3u8
 
 #EXTINF:-1 tvg-id="bay.ip" tvg-name="Bayfront Park, Miami" group-title="Live", Bayfront Park, Miami
 https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ymswdhc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wrigley.ip" tvg-name="Wrigley Field Live" group-title="Live", Wrigley Field Live
+https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w412835829.m3u8?t=RLwfbNlAu1quBC9DjUbOPrroBvBHA7%2F5h3FXIwkQhFxeTFbXnpD8qSCuqO9T3d9F&cid=
+
+#EXTINF:-1 tvg-id="cedar.ip" tvg-name="Cedar Key" group-title="Live", Cedar Key Webcam
+https://s30.ipcamlive.com/streams/1euwopikmpoa95ryd/stream.m3u8
