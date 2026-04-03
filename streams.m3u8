@@ -88,3 +88,33 @@ https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w412835829.m3u8?t=R
 
 #EXTINF:-1 tvg-id="cedar.ip" tvg-name="Cedar Key" group-title="Live", Cedar Key Webcam
 https://s30.ipcamlive.com/streams/1euwopikmpoa95ryd/stream.m3u8
+
+#EXTINF:-1 tvg-id="butterfly.ip" tvg-name="Butterfly House Live" group-title="Live", Butterfly House
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jelly.ip" tvg-name="Moon Jellies Live" group-title="Live", Moon Jellies
+https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ohio.ip" tvg-name="Ohio Birdfeeder Live" group-title="Live", Ohio Birdfeeder
+https://e1-na8.angelcam.com/cameras/106304/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzUyNDc3NzksIm5iZiI6MTc3NTI0NzY1OSwiZXhwIjoxNzc1MjU0OTc5LCJkaWQiOiIxMDYzMDQifQ%2EmaV9qacKJYpEPnaoDWULw%5F24NHVoBGRxaTXtJVR5RnA
+
+#EXTINF:-1 tvg-id="petes.ip" tvg-name="Peg Leg Pete's" group-title="Live", Peg Leg Pete's
+https://2-fss-2.streamhoster.com/pl_126/204710-1899958-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sharkbeach.ip" tvg-name="Sharkys Beach Cam" group-title="Live", Sharkys Beach Cam
+https://s57.ipcamlive.com/streams/39ecetpvm0at59nf1/stream.m3u8
+
+#EXTINF:-1 tvg-id="sharkdeck.ip" tvg-name="Sharkys Deck Cam" group-title="Live", Sharkys Deck Cam
+https://s133.ipcamlive.com/streams/85ohdbnt1k5l6cfgd/stream.m3u8
+
+#EXTINF:-1 tvg-id="schooners.ip" tvg-name="Schooners Bar" group-title="Live", Schooners Bar
+https://s67.ipcamlive.com/streams/43iwkccn2ot7etn5f/stream.m3u8
+
+#EXTINF:-1 tvg-id="willy.ip" tvg-name="Pineapple Willys" group-title="Live", Pineapple Willys
+https://s93.ipcamlive.com/streams/5dzitxbanotwjrlyf/stream.m3u8
+
+#EXTINF:-1 tvg-id="wharf.ip" tvg-name="Schooner Warf" group-title="Live", Schooner Wharf
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.cnbodpt.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fish.ip" tvg-name="North Carolina Fishing Pier" group-title="Live", North Carolina Fishing Pier
+https://streams.surfchex.com:8443/live/scp.stream/playlist.m3u8
