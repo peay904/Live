@@ -97,3 +97,6 @@ https://s25.ipcamlive.com/streams/19b4fhjnpl6fdrep8/stream.m3u8
 
 #EXTINF:-1 tvg-id="pine.ip" tvg-name="Nessie Cam-Pinewood Steading" group-title="Live", Nessie Cam-Pinewood Steading
 https://s15.ipcamlive.com/streams/0fkf6kda7xmajd31q/stream.m3u8
+
+#EXTINF:-1 tvg-id="bay.ip" tvg-name="Bayfront Park, Miami" group-title="Live", Bayfront Park, Miami
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ymswdhc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
