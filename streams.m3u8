@@ -118,3 +118,51 @@ https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.cnbodpt.fd0.sm1.
 
 #EXTINF:-1 tvg-id="fish.ip" tvg-name="North Carolina Fishing Pier" group-title="Live", North Carolina Fishing Pier
 https://streams.surfchex.com:8443/live/scp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="oban.ip" tvg-name="Oban,Scotland Pier" group-title="Live", Oban, Scotland Pier
+https://n2.cdn.jetstre.am/session/d2d4cbdddb1dbf2e5579aba26c3a16f3/sz/streamdays/wowza4/live/OLTA-EEUSK-244/playlist.m3u8?token=bbUodPAStlqJ7gwVjbVTyg&time=1775313218
+
+#EXTINF:-1 tvg-id="ferry.ip" tvg-name="Windermere Ferry" group-title="Live", Windermere Ferry
+https://n2.cdn.jetstre.am/session/572c8f3109f0ad918307487aaa0f2857/sz/streamdays/wowza4/live/FreshwaterBiologicalAssociation-Ferry-184/playlist.m3u8?token=hsxNxmyFJZLHSsUuO2SaKw&time=1775313390
+
+#EXTINF:-1 tvg-id="broads.ip" tvg-name="Norfolk Broads-England" group-title="Live", Norfolk Broads-England
+https://s172.ipcamlive.com/streams/acdcfjgqu6a13rh0e/stream.m3u8
+
+#EXTINF:-1 tvg-id="glades.ip" tvg-name="Port Everglades" group-title="Live", Port Everglades
+https://cdn77.ptztv.live/Xx3cd0vYAwbEoaQuwMuU-A==,1775335152/cdnorigin/pewmux.stream/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="miami.ip" tvg-name="Port Miami" group-title="Live", Port Miami
+https://cdn77.ptztv.live/8lNQHP7e0pgwWkfbp4AD5g==,1775335419/cdnorigin/pmw1mux.stream/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="kwharbor.ip" tvg-name="Key West Harbor" group-title="Live", Key West Harbor
+https://cdn77.ptztv.live/j82B_9EFQbGTf9m6oidk4A==,1775335471/cdnorigin/kwhwmux.stream/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="nassau.ip" tvg-name="Port Nassau" group-title="Live", Port Nassau
+https://cdn77.ptztv.live/Mj28NvKJs10JnpLmZ2hkSQ==,1775335552/cdnorigin/pnwmux.stream/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="juneau.ip" tvg-name="Juneau Harbor" group-title="Live", Juneau Harbor
+https://cdn77.ptztv.live/3MJUqmfoOn9tdQuJ0gnEqQ==,1775335747/cdnorigin/jhwmux.stream/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="usa.ip" tvg-name="Rotating USA weather cams" group-title="Live", Rotating USA weather cams
+https://wms-prod-3.wetmet.net/live/282-00-02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgMjo1NToxOSBQTSZoYXNoX3ZhbHVlPXBFdkUwQWUrYmpoRDR3djZpYkNHM1E9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-id="gar.ip" tvg-name="GAR WOODS' PIER BAR" group-title="Live", GAR WOODS' PIER BAR
+https://live.hdontap.com/hls/hosb3/garwoods_ttv.stream/playlist.m3u8?t=5GPUjsAT1UKRQmjAzjEHUw&e=1775362155
+
+#EXTINF:-1 tvg-id="meow.ip" tvg-name="Cats Meow Karaoke" group-title="Live", Cats Meow Karaoke
+https://videos-3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8?DVR&t=bLrxkX4CCWhWlKSkvcJQ9evLZ1JcjUbo7vDIfgnWaF5gVsJe9wjtmR0Bb0%2B6Dn%2Bi&cid=
+
+#EXTINF:-1 tvg-id="windjammer.ip" tvg-name="Windjammer Beach Club" group-title="Live", Windjammer Beach Club
+https://stream-ue1-bravo.dropcam.com/nexus_aac/3174bc1d5e4d4f118bc9f3332af339c3/playlist.m3u8?public=SO4YPH3tgv
+
+#EXTINF:-1 tvg-id="dead.ip" tvg-name="Dead Dog Saloon" group-title="Live", Dead Dog Saloon
+https://s59.ipcamlive.com/streams/3bqsxat4puv0skgrf/stream.m3u8
+
+#EXTINF:-1 tvg-id="tydz.ip" tvg-name="RipTydz Oceanfront Grille" group-title="Live", RipTydz Oceanfront Grille
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-bar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="merry.ip" tvg-name="Merrymoor Inn" group-title="Live", Merrymoor Inn
+https://s100.ipcamlive.com/streams/64auuolkfbqwar5zm/stream.m3u8
+
+#EXTINF:-1 tvg-id="robin.ip" tvg-name="Robbinhoods Bay" group-title="Live", Robinhoods Bay
+https://s68.ipcamlive.com/streams/44wjfqxcrb81wcum3/stream.m3u8
