@@ -114,6 +114,54 @@
   <channel id="fish.ip">
     <display-name>North Carolina Fishing Pier Live</display-name>
   </channel>
+  <channel id="oban.ip">
+    <display-name>Oban,Scotland Pier Live</display-name>
+  </channel>
+  <channel id="ferry.ip">
+    <display-name>Windermere Ferry Live</display-name>
+  </channel>
+  <channel id="broads.ip">
+    <display-name>Norfolk Broads-England Live</display-name>
+  </channel>
+  <channel id="glades.ip">
+    <display-name>Port Everglades Live</display-name>
+  </channel>
+  <channel id="miami.ip">
+    <display-name>Port Miami Live</display-name>
+  </channel>
+  <channel id="kwharbor.ip">
+    <display-name>Key West Harbor Live</display-name>
+  </channel>
+  <channel id="nassau.ip">
+    <display-name>Port Nassau Live</display-name>
+  </channel>
+  <channel id="juneau.ip">
+    <display-name>Juneau Harbor Live</display-name>
+  </channel>
+  <channel id="usa.ip">
+    <display-name>Rotating USA Weather Cams</display-name>
+  </channel>
+  <channel id="gar.ip">
+    <display-name>Gar Woods Pier Bar Live</display-name>
+  </channel>
+  <channel id="meow.ip">
+    <display-name>Cats Meow Karaoke Live</display-name>
+  </channel>
+  <channel id="windjammer.ip">
+    <display-name>Windjammer Beach Club Live</display-name>
+  </channel>
+  <channel id="dead.ip">
+    <display-name>Dead Dog Saloon Live</display-name>
+  </channel>
+  <channel id="tydz.ip">
+    <display-name>RipTydz Oceanfront Grille Live</display-name>
+  </channel>
+  <channel id="merry.ip">
+    <display-name>Merrymoor Inn Live</display-name>
+  </channel>
+  <channel id="robin.ip">
+    <display-name>Robinhoods Bay Live</display-name>
+  </channel>
   <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -568,6 +616,198 @@
   </programme>
   <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="fish.ip">
     <title lang="en">North Carolina Fishing Pier Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="oban.ip">
+    <title lang="en">Oban,Scotland Pier Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="oban.ip">
+    <title lang="en">Oban,Scotland Pier Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="oban.ip">
+    <title lang="en">Oban,Scotland Pier Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="ferry.ip">
+    <title lang="en">Windermere Ferry Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="ferry.ip">
+    <title lang="en">Windermere Ferry Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="ferry.ip">
+    <title lang="en">Windermere Ferry Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="broads.ip">
+    <title lang="en">Norfolk Broads-England Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="broads.ip">
+    <title lang="en">Norfolk Broads-England Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="broads.ip">
+    <title lang="en">Norfolk Broads-England Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="glades.ip">
+    <title lang="en">Port Everglades Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="glades.ip">
+    <title lang="en">Port Everglades Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="glades.ip">
+    <title lang="en">Port Everglades Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="miami.ip">
+    <title lang="en">Port Miami Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="miami.ip">
+    <title lang="en">Port Miami Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="miami.ip">
+    <title lang="en">Port Miami Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="kwharbor.ip">
+    <title lang="en">Key West Harbor Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="kwharbor.ip">
+    <title lang="en">Key West Harbor Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="kwharbor.ip">
+    <title lang="en">Key West Harbor Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="nassau.ip">
+    <title lang="en">Port Nassau Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="nassau.ip">
+    <title lang="en">Port Nassau Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="nassau.ip">
+    <title lang="en">Port Nassau Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="juneau.ip">
+    <title lang="en">Juneau Harbor Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="juneau.ip">
+    <title lang="en">Juneau Harbor Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="juneau.ip">
+    <title lang="en">Juneau Harbor Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="usa.ip">
+    <title lang="en">Rotating USA Weather Cams 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="usa.ip">
+    <title lang="en">Rotating USA Weather Cams 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="usa.ip">
+    <title lang="en">Rotating USA Weather Cams 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="gar.ip">
+    <title lang="en">Gar Woods Pier Bar Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="gar.ip">
+    <title lang="en">Gar Woods Pier Bar Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="gar.ip">
+    <title lang="en">Gar Woods Pier Bar Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="meow.ip">
+    <title lang="en">Cats Meow Karaoke Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="meow.ip">
+    <title lang="en">Cats Meow Karaoke Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="meow.ip">
+    <title lang="en">Cats Meow Karaoke Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="windjammer.ip">
+    <title lang="en">Windjammer Beach Club Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="windjammer.ip">
+    <title lang="en">Windjammer Beach Club Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="windjammer.ip">
+    <title lang="en">Windjammer Beach Club Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="dead.ip">
+    <title lang="en">Dead Dog Saloon Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="dead.ip">
+    <title lang="en">Dead Dog Saloon Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="dead.ip">
+    <title lang="en">Dead Dog Saloon Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="tydz.ip">
+    <title lang="en">RipTydz Oceanfront Grille Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="tydz.ip">
+    <title lang="en">RipTydz Oceanfront Grille Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="tydz.ip">
+    <title lang="en">RipTydz Oceanfront Grille Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="merry.ip">
+    <title lang="en">Merrymoor Inn Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="merry.ip">
+    <title lang="en">Merrymoor Inn Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="merry.ip">
+    <title lang="en">Merrymoor Inn Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="robin.ip">
+    <title lang="en">Robinhoods Bay Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="robin.ip">
+    <title lang="en">Robinhoods Bay Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="robin.ip">
+    <title lang="en">Robinhoods Bay Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
 </tv>
