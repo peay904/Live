@@ -162,6 +162,9 @@
   <channel id="robin.ip">
     <display-name>Robinhoods Bay Live</display-name>
   </channel>
+  <channel id="golazo.ip">
+    <display-name>Golazo Network</display-name>
+  </channel>
   <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -808,6 +811,18 @@
   </programme>
   <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="robin.ip">
     <title lang="en">Robinhoods Bay Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260405000000 +0000" channel="golazo.ip">
+    <title lang="en">Golazo Network</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260405000000 +0000" stop="20260406000000 +0000" channel="golazo.ip">
+    <title lang="en">Golazo Network</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260407000000 +0000" channel="golazo.ip">
+    <title lang="en">Golazo Network</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
 </tv>
