@@ -65,6 +65,7 @@ CHANNELS = [
     {"id": "tydz.ip",        "name": "RipTydz Oceanfront Grille Live",     "title": "RipTydz Oceanfront Grille Live Stream 24/7"},
     {"id": "merry.ip",       "name": "Merrymoor Inn Live",                 "title": "Merrymoor Inn Live Stream 24/7"},
     {"id": "robin.ip",       "name": "Robinhoods Bay Live",                "title": "Robinhoods Bay Live Stream 24/7"},
+    {"id": "golazo.ip",      "name": "Golazo Network",                     "title": "Golazo Network"},
 ]
 
 def generate_epg():
