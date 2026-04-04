@@ -49,6 +49,22 @@ CHANNELS = [
     {"id": "wharf.ip",       "name": "Schooners Wharf Live",               "title": "Schooners Wharf Live Stream 24/7"},
     {"id": "willy.ip",       "name": "Pineapple Willys Live",              "title": "Pineapple Willys Live Stream 24/7"},
     {"id": "fish.ip",        "name": "North Carolina Fishing Pier Live",   "title": "North Carolina Fishing Pier Live Stream 24/7"},
+    {"id": "oban.ip",        "name": "Oban,Scotland Pier Live",            "title": "Oban,Scotland Pier Live Stream 24/7"},
+    {"id": "ferry.ip",       "name": "Windermere Ferry Live",              "title": "Windermere Ferry Live Stream 24/7"},
+    {"id": "broads.ip",      "name": "Norfolk Broads-England Live",        "title": "Norfolk Broads-England Live Stream 24/7"},
+    {"id": "glades.ip",      "name": "Port Everglades Live",               "title": "Port Everglades Live Stream 24/7"},
+    {"id": "miami.ip",       "name": "Port Miami Live",                    "title": "Port Miami Live Stream 24/7"},
+    {"id": "kwharbor.ip",    "name": "Key West Harbor Live",               "title": "Key West Harbor Live Stream 24/7"},
+    {"id": "nassau.ip",      "name": "Port Nassau Live",                   "title": "Port Nassau Live Stream 24/7"},
+    {"id": "juneau.ip",      "name": "Juneau Harbor Live",                 "title": "Juneau Harbor Live Stream 24/7"},
+    {"id": "usa.ip",         "name": "Rotating USA Weather Cams",          "title": "Rotating USA Weather Cams 24/7"},
+    {"id": "gar.ip",         "name": "Gar Woods Pier Bar Live",            "title": "Gar Woods Pier Bar Live Stream 24/7"},
+    {"id": "meow.ip",        "name": "Cats Meow Karaoke Live",             "title": "Cats Meow Karaoke Live Stream 24/7"},
+    {"id": "windjammer.ip",  "name": "Windjammer Beach Club Live",         "title": "Windjammer Beach Club Live Stream 24/7"},
+    {"id": "dead.ip",        "name": "Dead Dog Saloon Live",               "title": "Dead Dog Saloon Live Stream 24/7"},
+    {"id": "tydz.ip",        "name": "RipTydz Oceanfront Grille Live",     "title": "RipTydz Oceanfront Grille Live Stream 24/7"},
+    {"id": "merry.ip",       "name": "Merrymoor Inn Live",                 "title": "Merrymoor Inn Live Stream 24/7"},
+    {"id": "robin.ip",       "name": "Robinhoods Bay Live",                "title": "Robinhoods Bay Live Stream 24/7"},
 ]
 
 def generate_epg():
