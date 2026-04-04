@@ -166,3 +166,6 @@ https://s100.ipcamlive.com/streams/64auuolkfbqwar5zm/stream.m3u8
 
 #EXTINF:-1 tvg-id="robin.ip" tvg-name="Robbinhoods Bay" group-title="Live", Robinhoods Bay
 https://s68.ipcamlive.com/streams/44wjfqxcrb81wcum3/stream.m3u8
+
+#EXTINF:-1 tvg-id="golazo.ip" tvg-name="Golazo Network" group-title="Live", Golazo Network
+https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/09e0bb5e-64dd-4373-ab78-45a481b34184:ATL/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22800303c1-15bc-41ae-a2cf-3acf223d30b9%22%2Csu
