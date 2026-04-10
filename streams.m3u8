@@ -95,44 +95,17 @@ https://s172.ipcamlive.com/streams/acdcfjgqu6a13rh0e/stream.m3u8
 #EXTINF:-1 tvg-id="windjammer.ip" tvg-name="Windjammer Beach Club" group-title="Live", Windjammer Beach Club
 https://stream-ue1-bravo.dropcam.com/nexus_aac/3174bc1d5e4d4f118bc9f3332af339c3/playlist.m3u8?public=SO4YPH3tgv
 
-#EXTINF:-1 tvg-id="dead.ip" tvg-name="Dead Dog Saloon" group-title="Live", Dead Dog Saloon
-https://s59.ipcamlive.com/streams/3bqsxat4puv0skgrf/stream.m3u8
-
 #EXTINF:-1 tvg-id="tydz.ip" tvg-name="RipTydz Oceanfront Grille" group-title="Live", RipTydz Oceanfront Grille
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-bar.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="merry.ip" tvg-name="Merrymoor Inn" group-title="Live", Merrymoor Inn
-https://s100.ipcamlive.com/streams/64auuolkfbqwar5zm/stream.m3u8
-
-#EXTINF:-1 tvg-id="robin.ip" tvg-name="Robbinhoods Bay" group-title="Live", Robinhoods Bay
-https://s68.ipcamlive.com/streams/44wjfqxcrb81wcum3/stream.m3u8
 
 #EXTINF:-1 tvg-id="golazo.ip" tvg-name="Golazo Network" group-title="Live", Golazo Network
 https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/09e0bb5e-64dd-4373-ab78-45a481b34184:ATL/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22800303c1-15bc-41ae-a2cf-3acf223d30b9%22%2Csu
 
-#EXTINF:-1 tvg-id="bali.ip" tvg-name="Bali Elephant Cam" group-title="Live", Bali Elephant Cam
-https://videos-3.earthcam.com/fecnetwork/4338.flv/playlist.m3u8?t=Z%2Fc%2FsoBm2yH6EJo00Tvf3RMoCcSOxflaNUyM32uEF3cQpkflTPiClsj%2FQf%2F84pE%2B&td=202604092239
-
-#EXTINF:-1 tvg-id="wine.ip" tvg-name="Gourmet Vinegar & Wines Warehouse" group-title="Live", Gourmet Vinegar & Wines Warehouse
-https://n1.cdn.jetstre.am/session/3ffaf572ac477a4aae235f96ba5089c4/sz/streamdays/wowza4/live/GourmetClassic-Racking-793/playlist.m3u8?token=3GfVxyWJCN145dpGXEPrHA&time=1775790653
-
-#EXTINF:-1 tvg-id="box.ip" tvg-name="Gourmet Vinegar & Wines Bag in a Box" group-title="Live", Gourmet Vinegar & Wines Bag in a Box
-https://n1.cdn.jetstre.am/session/f7ee122135c6e4f47c66b03c79eae32a/sz/streamdays/wowza4/live/GourmetClassic-Bottling-793/playlist.m3u8?token=b_7x1kjidh9s1rQUDaydWA&time=1775790699
-
-#EXTINF:-1 tvg-id="pack.ip" tvg-name="Gourmet Vinegar & Wines Packaging" group-title="Live", Gourmet Vinegar & Wines Packaging
-https://n2.cdn.jetstre.am/session/dd1bca7d61ece403a6762e83bf27d2df/sz/streamdays/wowza4/live/GourmetClassic-Packaging-793/playlist.m3u8?token=TDXdKDPBheauOZmUMTmkwA&time=1775790759
-
-#EXTINF:-1 tvg-id="german.ip" tvg-name="Großröhrsdorf - Bretnig-Hauswalde - GRÄFE Treppen" group-title="Live", Großröhrsdorf - Bretnig-Hauswalde - GRÄFE Treppen
-https://frn.rtsp.me/olLYJ_fdQGC95sSyNg3hzA/1775794156/hls/8n2D25az.m3u8
-
-#EXTINF:-1 tvg-id="tbd.ip" tvg-name="tbd" group-title="Live", tbd
+#EXTINF:-1 tvg-id="bird.ip" tvg-name="Birdfeeder" group-title="Live", Birdfeeder
 https://stream.wildlifestreaming.io:8443/WildlifeKate/13.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rocks.ip" tvg-name="Red Rocks" group-title="Live", Red Rocks
 https://cdn2.bieszczady.live/hls-live/gromadzyn6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tip.ip" tvg-name="Black Tip Reef" group-title="Live", Black Tip Reef
-https://videos-3.earthcam.com/fecnetwork/nabtrcam1.flv/playlist.m3u8?DVR&t=YRJU5fPYfajRhUXpAREcHe5mDSD83Jf9VQNw5PYdqfLxJ7mYKMgVK32I%2BQy2NkMqrp0abRVRj0sIVisFB5GKnA%3D%3D&cid=
 
 #EXTINF:-1 tvg-id="pebble.ip" tvg-name="Pebble Beach 18th Green" group-title="Live", Pebble Beach 18th Green
 https://b15.hdrelay.com/camera/CID_VTSJ00000081/relay/playlist.m3u8
