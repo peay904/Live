@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Port.ip" tvg-name="Port de Baie-Comeau" group-title="Live", Port de Baie-Comeau
-https://s137.ipcamlive.com/streams/89cpqlzov2azh0ih6/stream.m3u8
-
-#EXTINF:-1 tvg-id="Playa.ip" tvg-name="Playa Palms" group-title="Live", Playa Palms Beach Hotel
-https://s132.ipcamlive.com/streams/84ectnrwja0ntb64e/stream.m3u8
-
-#EXTINF:-1 tvg-id="Shoreline.ip" tvg-name="Shoreline" group-title="Live", Shoreline Cam
-https://s93.ipcamlive.com/streams/5dniuyez7ilsexjoz/stream.m3u8
-
-#EXTINF:-1 tvg-id="PSB.ip" tvg-name="Pink Shell Beach" group-title="Live", Pink Shell Beach
-https://e1-na8.angelcam.com/cameras/77018/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzExOTY4MjEsIm5iZiI6MTc3MTE5NjcwMSwiZXhwIjoxNzcxMjA0MDIxLCJkaWQiOiI3NzAxOCJ9.TDjfMNOeF99Nf6WsL0_grOQmopiNAW6sZYI31eQCvqE
-
-#EXTINF:-1 tvg-id="Roatan.ip" tvg-name="Roatan" group-title="Live", Roatan
-https://videos-3.earthcam.com/fecnetwork/40604.flv/chunklist_w1328250895.m3u8?t=iy62+obDnYmGN81bEMbiaMTtY5varBaofYE+tLjOQd9069v/40XNYu2Ti/1JpUdl&cid=
-
 #EXTINF:-1 tvg-id="Maui.ip" tvg-name="Maui" group-title="Live", Lahaina Maui
 https://stream-uc2-bravo.dropcam.com/nexus_aac/e8e5758e39ee4b80b413f2b0ffca7986/chunklist_w1087235141.m3u8?public=1zccvpZ04f
 
@@ -35,20 +20,11 @@ https://outbound-production.explore.org/stream-production-565/.m3u8
 #EXTINF:-1 tvg-id="Pup.ip" tvg-name="Live Puppy Cam" group-title="Live", Puppy Cam
 https://outbound-production.explore.org/stream-production-561/.m3u8
 
-#EXTINF:-1 tvg-id="Cat.ip" tvg-name="Kitty Cam Live" group-title="Live", Kitty Cam
-https://outbound-production.explore.org/stream-production-84/.m3u8
-
 #EXTINF:-1 tvg-id="Elephant.ip" tvg-name="Africam: Elephant Park" group-title="Live", Africam: Elephant Park
 https://outbound-production.explore.org/stream-production-110/.m3u8
 
 #EXTINF:-1 tvg-id="Waterhole.ip" tvg-name="Africam: Tau Waterhole" group-title="Live", Africam: Tau Waterhole
 https://outbound-production.explore.org/stream-production-317/.m3u8
-
-#EXTINF:-1 tvg-id="KSC.ip" tvg-name="Kennedy Space Live" group-title="Live", Kennedy Space Center
-https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1490653986.m3u8
-
-#EXTINF:-1 tvg-id="Manatee.ip" tvg-name="Manatee Cam Live" group-title="Live", Manatee Cam
-https://ectvradio.earthcam.com/earthcamradio/meditation/chunklist_w1636942416.m3u8
 
 #EXTINF:-1 tvg-id="Joe.ip" tvg-name="Sloppy Joe's Live" group-title="Live", Sloppy Joe's Bar - Key West
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt19793.rc0.smil/playlist.m3u8
@@ -74,17 +50,8 @@ https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kwpxbpv.fd0.sm1.
 #EXTINF:-1 tvg-id="smpier.ip" tvg-name="Santa Monica Pier Live" group-title="Live", Santa Monica Pier
 https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ikdybp6.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt19793.rc0.edge.vpass.stream/chunklist_w1634518661.m3u8
 
-#EXTINF:-1 tvg-id="lodge.ip" tvg-name="Nessie Cam-Shoreland Lodges" group-title="Live", Nessie Cam-Shoreland Lodges
-https://s25.ipcamlive.com/streams/19b4fhjnpl6fdrep8/stream.m3u8
-
-#EXTINF:-1 tvg-id="pine.ip" tvg-name="Nessie Cam-Pinewood Steading" group-title="Live", Nessie Cam-Pinewood Steading
-https://s15.ipcamlive.com/streams/0fkf6kda7xmajd31q/stream.m3u8
-
 #EXTINF:-1 tvg-id="bay.ip" tvg-name="Bayfront Park, Miami" group-title="Live", Bayfront Park, Miami
 https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ymswdhc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="wrigley.ip" tvg-name="Wrigley Field Live" group-title="Live", Wrigley Field Live
-https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w412835829.m3u8?t=RLwfbNlAu1quBC9DjUbOPrroBvBHA7%2F5h3FXIwkQhFxeTFbXnpD8qSCuqO9T3d9F&cid=
 
 #EXTINF:-1 tvg-id="cedar.ip" tvg-name="Cedar Key" group-title="Live", Cedar Key Webcam
 https://s30.ipcamlive.com/streams/1euwopikmpoa95ryd/stream.m3u8
@@ -94,9 +61,6 @@ https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.
 
 #EXTINF:-1 tvg-id="jelly.ip" tvg-name="Moon Jellies Live" group-title="Live", Moon Jellies
 https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ohio.ip" tvg-name="Ohio Birdfeeder Live" group-title="Live", Ohio Birdfeeder
-https://e1-na8.angelcam.com/cameras/106304/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzUyNDc3NzksIm5iZiI6MTc3NTI0NzY1OSwiZXhwIjoxNzc1MjU0OTc5LCJkaWQiOiIxMDYzMDQifQ%2EmaV9qacKJYpEPnaoDWULw%5F24NHVoBGRxaTXtJVR5RnA
 
 #EXTINF:-1 tvg-id="petes.ip" tvg-name="Peg Leg Pete's" group-title="Live", Peg Leg Pete's
 https://2-fss-2.streamhoster.com/pl_126/204710-1899958-1/playlist.m3u8
@@ -128,30 +92,6 @@ https://n2.cdn.jetstre.am/session/572c8f3109f0ad918307487aaa0f2857/sz/streamdays
 #EXTINF:-1 tvg-id="broads.ip" tvg-name="Norfolk Broads-England" group-title="Live", Norfolk Broads-England
 https://s172.ipcamlive.com/streams/acdcfjgqu6a13rh0e/stream.m3u8
 
-#EXTINF:-1 tvg-id="glades.ip" tvg-name="Port Everglades" group-title="Live", Port Everglades
-https://cdn77.ptztv.live/Xx3cd0vYAwbEoaQuwMuU-A==,1775335152/cdnorigin/pewmux.stream/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="miami.ip" tvg-name="Port Miami" group-title="Live", Port Miami
-https://cdn77.ptztv.live/8lNQHP7e0pgwWkfbp4AD5g==,1775335419/cdnorigin/pmw1mux.stream/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="kwharbor.ip" tvg-name="Key West Harbor" group-title="Live", Key West Harbor
-https://cdn77.ptztv.live/j82B_9EFQbGTf9m6oidk4A==,1775335471/cdnorigin/kwhwmux.stream/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="nassau.ip" tvg-name="Port Nassau" group-title="Live", Port Nassau
-https://cdn77.ptztv.live/Mj28NvKJs10JnpLmZ2hkSQ==,1775335552/cdnorigin/pnwmux.stream/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="juneau.ip" tvg-name="Juneau Harbor" group-title="Live", Juneau Harbor
-https://cdn77.ptztv.live/3MJUqmfoOn9tdQuJ0gnEqQ==,1775335747/cdnorigin/jhwmux.stream/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="usa.ip" tvg-name="Rotating USA weather cams" group-title="Live", Rotating USA weather cams
-https://wms-prod-3.wetmet.net/live/282-00-02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgMjo1NToxOSBQTSZoYXNoX3ZhbHVlPXBFdkUwQWUrYmpoRDR3djZpYkNHM1E9PSZ2YWxpZG1pbnV0ZXM9MzA=
-
-#EXTINF:-1 tvg-id="gar.ip" tvg-name="GAR WOODS' PIER BAR" group-title="Live", GAR WOODS' PIER BAR
-https://live.hdontap.com/hls/hosb3/garwoods_ttv.stream/playlist.m3u8?t=5GPUjsAT1UKRQmjAzjEHUw&e=1775362155
-
-#EXTINF:-1 tvg-id="meow.ip" tvg-name="Cats Meow Karaoke" group-title="Live", Cats Meow Karaoke
-https://videos-3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8?DVR&t=bLrxkX4CCWhWlKSkvcJQ9evLZ1JcjUbo7vDIfgnWaF5gVsJe9wjtmR0Bb0%2B6Dn%2Bi&cid=
-
 #EXTINF:-1 tvg-id="windjammer.ip" tvg-name="Windjammer Beach Club" group-title="Live", Windjammer Beach Club
 https://stream-ue1-bravo.dropcam.com/nexus_aac/3174bc1d5e4d4f118bc9f3332af339c3/playlist.m3u8?public=SO4YPH3tgv
 
@@ -169,3 +109,36 @@ https://s68.ipcamlive.com/streams/44wjfqxcrb81wcum3/stream.m3u8
 
 #EXTINF:-1 tvg-id="golazo.ip" tvg-name="Golazo Network" group-title="Live", Golazo Network
 https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/09e0bb5e-64dd-4373-ab78-45a481b34184:ATL/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22800303c1-15bc-41ae-a2cf-3acf223d30b9%22%2Csu
+
+#EXTINF:-1 tvg-id="bali.ip" tvg-name="Bali Elephant Cam" group-title="Live", Bali Elephant Cam
+https://videos-3.earthcam.com/fecnetwork/4338.flv/playlist.m3u8?t=Z%2Fc%2FsoBm2yH6EJo00Tvf3RMoCcSOxflaNUyM32uEF3cQpkflTPiClsj%2FQf%2F84pE%2B&td=202604092239
+
+#EXTINF:-1 tvg-id="wine.ip" tvg-name="Gourmet Vinegar & Wines Warehouse" group-title="Live", Gourmet Vinegar & Wines Warehouse
+https://n1.cdn.jetstre.am/session/3ffaf572ac477a4aae235f96ba5089c4/sz/streamdays/wowza4/live/GourmetClassic-Racking-793/playlist.m3u8?token=3GfVxyWJCN145dpGXEPrHA&time=1775790653
+
+#EXTINF:-1 tvg-id="box.ip" tvg-name="Gourmet Vinegar & Wines Bag in a Box" group-title="Live", Gourmet Vinegar & Wines Bag in a Box
+https://n1.cdn.jetstre.am/session/f7ee122135c6e4f47c66b03c79eae32a/sz/streamdays/wowza4/live/GourmetClassic-Bottling-793/playlist.m3u8?token=b_7x1kjidh9s1rQUDaydWA&time=1775790699
+
+#EXTINF:-1 tvg-id="pack.ip" tvg-name="Gourmet Vinegar & Wines Packaging" group-title="Live", Gourmet Vinegar & Wines Packaging
+https://n2.cdn.jetstre.am/session/dd1bca7d61ece403a6762e83bf27d2df/sz/streamdays/wowza4/live/GourmetClassic-Packaging-793/playlist.m3u8?token=TDXdKDPBheauOZmUMTmkwA&time=1775790759
+
+#EXTINF:-1 tvg-id="german.ip" tvg-name="Großröhrsdorf - Bretnig-Hauswalde - GRÄFE Treppen" group-title="Live", Großröhrsdorf - Bretnig-Hauswalde - GRÄFE Treppen
+https://frn.rtsp.me/olLYJ_fdQGC95sSyNg3hzA/1775794156/hls/8n2D25az.m3u8
+
+#EXTINF:-1 tvg-id="tbd.ip" tvg-name="tbd" group-title="Live", tbd
+https://stream.wildlifestreaming.io:8443/WildlifeKate/13.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rocks.ip" tvg-name="Red Rocks" group-title="Live", Red Rocks
+https://cdn2.bieszczady.live/hls-live/gromadzyn6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tip.ip" tvg-name="Black Tip Reef" group-title="Live", Black Tip Reef
+https://videos-3.earthcam.com/fecnetwork/nabtrcam1.flv/playlist.m3u8?DVR&t=YRJU5fPYfajRhUXpAREcHe5mDSD83Jf9VQNw5PYdqfLxJ7mYKMgVK32I%2BQy2NkMqrp0abRVRj0sIVisFB5GKnA%3D%3D&cid=
+
+#EXTINF:-1 tvg-id="pebble.ip" tvg-name="Pebble Beach 18th Green" group-title="Live", Pebble Beach 18th Green
+https://b15.hdrelay.com/camera/CID_VTSJ00000081/relay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="seals.ip" tvg-name="Piedras Blancas Elephant Seals" group-title="Live", Piedras Blancas Elephant Seals
+https://video.parks.ca.gov/Hearst/Piedras.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="yosemite.ip" tvg-name="Yosemite Falls" group-title="Live", Yosemite Falls
+https://cs9.pixelcaster.com/live/yosfalls.stream/playlist.m3u8
