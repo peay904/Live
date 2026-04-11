@@ -115,3 +115,72 @@ https://video.parks.ca.gov/Hearst/Piedras.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="yosemite.ip" tvg-name="Yosemite Falls" group-title="Live", Yosemite Falls
 https://cs9.pixelcaster.com/live/yosfalls.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="niagara.ip" tvg-name="Niagara Falls" group-title="Live", Niagara Falls
+https://videos-3.earthcam.com/fecnetwork/15527.flv/playlist.m3u8?t=rTpEtwAFUW0%2BXz8YVqXGLgc1t%2FIlFVoqI8yJCFh1LQnUdfibC7LxIEBrOaB13i1m&td=202604101815
+
+#EXTINF:-1 tvg-id="peggy.ip" tvg-name="Peggy's Cove Lighthouse" group-title="Live", Peggy's Cove Lighthouse
+https://streaming-1.novascotiawebcams.com/dvr/peggyscove/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="conch.ip" tvg-name="Grand Cayman - Cracked Conch" group-title="Live", Grand Cayman - Cracked Conch
+https://s62.ipcamlive.com/streams/3exm4vayjtnehfu5i/stream.m3u8
+
+#EXTINF:-1 tvg-id="sevenfalls.ip" tvg-name="Seven Falls - Colorado" group-title="Live", Seven Falls - Colorado
+https://live.hdontap.com/hls/hosb1/sevenfalls_broadmoor.stream/playlist.m3u8?t=k-rrNEPMDsAHZQVz3tK5Sw&e=1775903614
+
+#EXTINF:-1 tvg-id="cloudcamp.ip" tvg-name="Cloud Camp" group-title="Live", Cloud Camp
+https://live.hdontap.com/hls/hosb1/cloudcamp_broadmoor.stream/playlist.m3u8?t=lEtW6mVkbr900NbkfPbbDw&e=1775903644
+
+#EXTINF:-1 tvg-id="pikes.ip" tvg-name="Pikes Peak Summit" group-title="Live", Pikes Peak Summit
+https://live.hdontap.com/hls/hosb1/pikes_peak-broadmoor.stream/playlist.m3u8?t=ObBcB7joTJtXH1r5jEtvLQ&e=1775903677
+
+#EXTINF:-1 tvg-id="glenwood.ip" tvg-name="Glenwood Hot Springs" group-title="Live", Glenwood Hot Springs
+https://b16.hdrelay.com/camera/1b158cc2-09f7-46d7-a518-37acbd107b6c/relay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redrocks.ip" tvg-name="Red Rocks Amphitheatre" group-title="Live", Red Rocks Amphitheatre
+https://s106.ipcamlive.com/streams/6aklpusq4oseaivtc/stream.m3u8
+
+#EXTINF:-1 tvg-id="princeton.ip" tvg-name="Mt. Princeton" group-title="Live", Mt. Princeton
+https://2-fss-2.streamhoster.com/pl_126/200612-1237886-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="hotspring.ip" tvg-name="World's Deepest Hot Spring" group-title="Live", World's Deepest Hot Spring
+https://n1.cdn.jetstre.am/session/88db9ea5f9a7d3416ba28d17307db8fa/sz/streamdays/wowza4/live/Pagosa-MotherSpring-11111/playlist.m3u8?token=CoQdncxajWw5LuWpHWTGyQ&time=1775861290
+
+#EXTINF:-1 tvg-id="laundromat.ip" tvg-name="Clinton, CO Laundromat" group-title="Live", Clinton, CO Laundromat
+https://e1-na8.angelcam.com/cameras/40266/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzU4NjEzOTUsIm5iZiI6MTc3NTg2MTI3NSwiZXhwIjoxNzc1ODY4NTk1LCJkaWQiOiI0MDI2NiJ9%2EQ7PS0%2DEAMDn4c2dA%5FLzbhbppgqa3gGn8xa%2DZOEyWWXI
+
+#EXTINF:-1 tvg-id="meigs.ip" tvg-name="Meigs Point Nature Center" group-title="Live", Meigs Point Nature Center
+https://e1-na8.angelcam.com/cameras/127097/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzU4NjEzMjUsIm5iZiI6MTc3NTg2MTIwNSwiZXhwIjoxNzc1ODY4NTI1LCJkaWQiOiIxMjcwOTcifQ%2Ey%2DiYQD61cERGdMpCQjGmOLIKc5%2DX0JdHyzCGBKRLI%2Dw
+
+#EXTINF:-1 tvg-id="taina.ip" tvg-name="Villa Taina" group-title="Live", Villa Taina
+https://s133.ipcamlive.com/streams/85l9ownbyr8zhflcx/stream.m3u8
+
+#EXTINF:-1 tvg-id="flagler.ip" tvg-name="Flagler County Tax Collector" group-title="Live", Flagler County Tax Collector
+https://s47.ipcamlive.com/streams/2fsj2zgyiycaxwhvp/stream.m3u8
+
+#EXTINF:-1 tvg-id="flamingo.ip" tvg-name="Flamingo Cam" group-title="Live", Flamingo Cam
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/31440/2023/09/14/1302.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wynwood.ip" tvg-name="Wynwood Miami" group-title="Live", Wynwood Miami
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.bmqtehq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="navarre.ip" tvg-name="Navarre Beach" group-title="Live", Navarre Beach
+https://s78.ipcamlive.com/streams/4eev0s1ashfwmxzlp/stream.m3u8
+
+#EXTINF:-1 tvg-id="balance.ip" tvg-name="Balance Gaming" group-title="Live", Balance Gaming
+https://s66.ipcamlive.com/streams/42tvx3gb17cuworz2/stream.m3u8
+
+#EXTINF:-1 tvg-id="manatee.ip" tvg-name="Underwater Manatee Cam" group-title="Live", Underwater Manatee Cam
+https://videos-3.earthcam.com/fecnetwork/23997.flv/playlist.m3u8?t=ecKuwjp4sAI%2BAbvkrh1mAYqXshJP4ncZ6bxGixmQ2mXsZ90qdBbfJJWCswIRdCDF&td=202604101920
+
+#EXTINF:-1 tvg-id="budalley.ip" tvg-name="Bud & Alleys" group-title="Live", Bud & Alleys
+https://usw01-smr05-relay.ozolio.com/hll-live/_definst_/relay01.axcaej9.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ponycam.ip" tvg-name="Geboltskirchen Ponycam" group-title="Live", Geboltskirchen - Kucyki Ponycam
+https://frn.rtsp.me/jqDEu6h9AR89nBiyVlO2eg/1775887107/hls/B8zY3b3e.m3u8?ip=206.223.234.38
+
+#EXTINF:-1 tvg-id="vogel.ip" tvg-name="Osttirol Birdfeeder" group-title="Live", Osttirol Vogelfütterung Birdfeeder
+https://frn.rtsp.me/bTI4_HxmfI6VAlozYFr15w/1775887597/hls/7iidsNnh.m3u8?ip=206.223.234.38
+
+#EXTINF:-1 tvg-id="ossiach.ip" tvg-name="Ossiachersee Boat Trip" group-title="Live", Ossiach - Ossiachersee - Boat Trip
+https://stream1.panocloud.com/ossiachschifffahrt/ossiachschifffahrt.stream/playlist.m3u8
