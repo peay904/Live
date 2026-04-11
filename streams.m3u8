@@ -184,3 +184,141 @@ https://frn.rtsp.me/bTI4_HxmfI6VAlozYFr15w/1775887597/hls/7iidsNnh.m3u8?ip=206.2
 
 #EXTINF:-1 tvg-id="ossiach.ip" tvg-name="Ossiachersee Boat Trip" group-title="Live", Ossiach - Ossiachersee - Boat Trip
 https://stream1.panocloud.com/ossiachschifffahrt/ossiachschifffahrt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chicagoriver.ip" tvg-name="Chicago River" group-title="Live", Chicago River
+https://wms-prod-3.wetmet.net/live/900-04-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI2IDQ6NDM6MDMgUE0maGFzaF92YWx1ZT1hVE16R0FFK1dKOVVXZ2tLQms4K1VRPT0mdmFsaWRtaW51dGVzPTMw
+
+#EXTINF:-1 tvg-id="willissky.ip" tvg-name="Willis Tower Skydeck" group-title="Live", Willis Tower Skydeck
+https://ectvradio.earthcam.com/earthcamradio/meditation/playlist.m3u8
+
+#EXTINF:-1 tvg-id="boonecounty.ip" tvg-name="Boone County Clerk" group-title="Live", Boone County Clerk
+https://videos-3.earthcam.com/fecnetwork/4369.flv/playlist.m3u8?t=glxQQqQ0DAoAB2%2FzAoNg%2B7sdqx9FK2W3HOFIGyV7f21NXPOYHxqiCfl4ExUcibC8&td=202604111250
+
+#EXTINF:-1 tvg-id="catsmeow.ip" tvg-name="Cats Meow Balcony - Bourbon St" group-title="Live", Cats Meow Balcony - Bourbon St
+https://videos-3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8?t=z96LKaYnWVQXaYYFAm8IpsH9JS%2BQlVEXBYPS02dZInHM846d%2F8aQl%2BAfkkq5E1FY&td=202604111257
+
+#EXTINF:-1 tvg-id="bostonosprey.ip" tvg-name="Boston Osprey Cam" group-title="Live", Boston Osprey Cam
+https://videos-3.earthcam.com/fecnetwork/20992.flv/playlist.m3u8?t=%2B5gbbHtIvxQszi6U5KszSnADRog8NVFm8ED8J3XUOGEqYlENWEBRqLah6UUPg7Os&td=202604111311
+
+#EXTINF:-1 tvg-id="barharbor.ip" tvg-name="Bar Harbor Osprey" group-title="Live", Bar Harbor Osprey
+https://videos-3.earthcam.com/fecnetwork/32167.flv/playlist.m3u8?t=n4Sem1lnnqzjVFUaWUsW70MeBiJswW%2BF7bOykp1Gm0RPeOtbAEyRXAOTZpmnj0H9&td=202604111258
+
+#EXTINF:-1 tvg-id="seaside.ip" tvg-name="Seaside Heights Boardwalk" group-title="Live", Seaside Heights Boardwalk
+https://videos-3.earthcam.com/fecnetwork/6975.flv/playlist.m3u8?t=VTPH0UpX3j5uDhMJckU9RFQJYgXnAHc5YHpuF6zCoRmMs8fLIqElseXTYapNgAkT&td=202604111300
+
+#EXTINF:-1 tvg-id="oceancity.ip" tvg-name="Ocean City Boardwalk" group-title="Live", Ocean City Boardwalk
+https://s142.ipcamlive.com/streams/8eawsxe2rvqc0lhna/stream.m3u8
+
+#EXTINF:-1 tvg-id="rumshack.ip" tvg-name="Ocean City Rum Shack" group-title="Live", Ocean City Rum Shack
+https://s33.ipcamlive.com/streams/21oifjmhm5qpcnxeu/stream.m3u8
+
+#EXTINF:-1 tvg-id="alpacas.ip" tvg-name="Unity Farms Alpacas" group-title="Live", Unity Farms Alpacas
+https://stream-uc2-alfa.dropcam.com/nexus_aac/3a4e098211a14467b0a38d988418fb0d/playlist.m3u8?public=bwVr2T04m8
+
+#EXTINF:-1 tvg-id="goats.ip" tvg-name="Unity Farms Goats" group-title="Live", Unity Farms Goats
+https://stream-uc2-bravo.dropcam.com/nexus_aac/57bb40f6e71f465aa10264d1a2e6bacb/playlist.m3u8?public=VSaORkhKhc
+
+#EXTINF:-1 tvg-id="minihorses.ip" tvg-name="Unity Farms Mini Horses" group-title="Live", Unity Farms Mini Horses
+https://stream-ue1-charlie.dropcam.com/nexus_aac/f2c724d5f7d14d9bbbc237b0b677235a/playlist.m3u8?public=osf5GUJsjm
+
+#EXTINF:-1 tvg-id="elkpark.ip" tvg-name="Patrick Mankowski Elk Park" group-title="Live", Patrick Mankowski Elk Park
+https://s152.ipcamlive.com/streams/98yzfsng5x2oitqhl/stream.m3u8
+
+#EXTINF:-1 tvg-id="barbershop.ip" tvg-name="Grand Slam Barbershop" group-title="Live", Grand Slam Barbershop
+https://stream-ue1-bravo.dropcam.com/nexus_aac/c912b3ef419146c7a44dba18cb546c0d/playlist.m3u8?public=zyu514XmDL
+
+#EXTINF:-1 tvg-id="wolf.ip" tvg-name="International Wolf Center" group-title="Live", International Wolf Center
+https://e1-eu8.angelcam.com/cameras/57804/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzU5MjgzMTksIm5iZiI6MTc3NTkyODE5OSwiZXhwIjoxNzc1OTM1NTE5LCJkaWQiOiI1NzgwNCJ9%2E4I5ZgIaxrRLfrB8iOtl1CU0Vk3F6wn6C6tp5dTQjWSw
+
+#EXTINF:-1 tvg-id="volleyball.ip" tvg-name="MN Select Volleyball Center" group-title="Live", MN Select Volleyball Center
+https://s138.ipcamlive.com/streams/8afdm1y79yzbstij4/stream.m3u8
+
+#EXTINF:-1 tvg-id="como.ip" tvg-name="Como Conservatory - St. Paul" group-title="Live", Como Conservatory - St. Paul
+https://wms-prod-5.wetmet.net/live/287-09-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI2IDU6MzM6MDIgUE0maGFzaF92YWx1ZT03Z1lCZTRLdTRyS2xSRWw0NS8zOWZRPT0mdmFsaWRtaW51dGVzPTMw
+
+#EXTINF:-1 tvg-id="ywolves.ip" tvg-name="West Yellowstone Wolves" group-title="Live", West Yellowstone Wolves
+https://s139.ipcamlive.com/streams/8bdioew8sa7qu6vjp/stream.m3u8
+
+#EXTINF:-1 tvg-id="oldfaithful.ip" tvg-name="Old Faithful" group-title="Live", Old Faithful
+https://cs7.pixelcaster.com/nps/faithful.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bellagio.ip" tvg-name="Bellagio Conservatory" group-title="Live", Bellagio Conservatory
+https://videos-3.earthcam.com/fecnetwork/3916.flv/playlist.m3u8?t=WHjF%2FVTcRlQ3Mh4Qco7ulOaxaZCUGiFHttf4YYxGU1Q1rrqzzs2eHsb3P216lY1m&td=202604111251
+
+#EXTINF:-1 tvg-id="sphere.ip" tvg-name="Las Vegas Sphere" group-title="Live", Las Vegas Sphere
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/ff4131d1-1018-a1ed-26c3-de61e7ba2312/index.m3u8
+
+#EXTINF:-1 tvg-id="howardlaundromat.ip" tvg-name="Howard BLVD Laundromat" group-title="Live", Howard BLVD Laundromat
+https://s111.ipcamlive.com/streams/6fpelxisgfuh7zm6d/stream.m3u8
+
+#EXTINF:-1 tvg-id="greatfalls.ip" tvg-name="Great Falls" group-title="Live", Great Falls
+https://videos-3.earthcam.com/fecnetwork/4918.flv/playlist.m3u8?t=sVj2XLx7UBaxH9mOqHGPpdv9i8WJfLLwzCHbbBf85oDdCYFpE6BJBb8C%2FOjK3yFX&td=202604111348
+
+#EXTINF:-1 tvg-id="temple.ip" tvg-name="Asa'Mai Hindu Temple" group-title="Live", Asa'Mai Hindu Temple
+https://stream-ue1-delta.dropcam.com/nexus_aac/340c176a744841d488fbe669dfc66507/playlist.m3u8?public=TfXj5R7f9n
+
+#EXTINF:-1 tvg-id="broadway.ip" tvg-name="Broadway" group-title="Live", Broadway
+https://videos-3.earthcam.com/fecnetwork/45903.flv/playlist.m3u8?DVR&t=ke5HMW6qRbtiYvHIyR8yBFHgrkizEdR8Z7YdIkGdY%2Bfz34zwewo%2Fhdst2XjOmeEL&cid=
+
+#EXTINF:-1 tvg-id="niagara2.ip" tvg-name="Niagara Falls - Maid of the Mist" group-title="Live", Niagara Falls - Maid of the Mist
+https://vstream.command.verkada.com/filter/transcode/v2_522fbb25ed21b9216c5d987279a36ed3/10461166-d0c5-49b2-b6b2-f3875669ee32/high_res/livevideo.m3u8
+
+#EXTINF:-1 tvg-id="timessquare.ip" tvg-name="Times Square" group-title="Live", Times Square
+https://videos-3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8?t=%2FeC3ZmOA%2BWko%2F9oYTVi%2B2F1FCtCsD6U02gtmGMhDX2rzHuoG9x99kV9b5Lir3mp2&td=202604111400
+
+#EXTINF:-1 tvg-id="blueridge.ip" tvg-name="Blue Ridge Mountains" group-title="Live", Blue Ridge Mountains
+https://streamer5.brownrice.com/pisgahinn1/pisgahinn1.stream/main_playlist.m3u8
+
+#EXTINF:-1 tvg-id="harborwinds.ip" tvg-name="Harbor Winds Trailer Park" group-title="Live", Harbor Winds Trailer Park
+https://s81.ipcamlive.com/streams/515anthnxyd46iius/stream.m3u8
+
+#EXTINF:-1 tvg-id="sealion.ip" tvg-name="Newport Sea Lion Docks" group-title="Live", Newport Sea Lion Docks
+https://s74.ipcamlive.com/streams/4ahhtgcizabw1oewq/stream.m3u8
+
+#EXTINF:-1 tvg-id="deathball.ip" tvg-name="Deathball Mountain" group-title="Live", Deathball Mountain
+https://s65.ipcamlive.com/streams/41jdgsjrci1x7cfum/stream.m3u8
+
+#EXTINF:-1 tvg-id="sxm.ip" tvg-name="SXM Island Cam" group-title="Live", SXM Island Cam
+https://cdn77.ptztv.live/zy6ezZGyfCpTh34OzvtEjQ==,1775953711/cdnorigin/sic.stream/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="hheagle.ip" tvg-name="Hilton Head Eagles Nest" group-title="Live", Hilton Head Eagles Nest
+https://live.hdontap.com/hls/hosbdvr6/hhland_eaglecam_new_large.stream/playlist.m3u8?t=hH0i8M_ZGIssW7qTIvbhcQ&e=1775975325
+
+#EXTINF:-1 tvg-id="windjammerdeck.ip" tvg-name="Windjammer Deck" group-title="Live", Windjammer Deck
+https://stream-us1-alfa.dropcam.com/nexus_aac/ccf72886be3d4853bb0cff74811d95b0/playlist.m3u8?public=TE7oZuqlIh
+
+#EXTINF:-1 tvg-id="windjammerdeck2.ip" tvg-name="Windjammer Deck 2" group-title="Live", Windjammer Deck 2
+https://stream-uc2-bravo.dropcam.com/nexus_aac/b31b7da34d02426196f0b031369117bd/playlist.m3u8?public=4lYYcVwPcz
+
+#EXTINF:-1 tvg-id="windjammerdeck3.ip" tvg-name="Windjammer Deck 3" group-title="Live", Windjammer Deck 3
+https://stream-ue1-charlie.dropcam.com/nexus_aac/ff751058c5f041d9966c90e4af2023de/playlist.m3u8?public=B5HzVHLVfs
+
+#EXTINF:-1 tvg-id="bristol.ip" tvg-name="Bristol Motor Speedway" group-title="Live", Bristol Motor Speedway
+https://videos-3.earthcam.com/fecnetwork/9593.flv/playlist.m3u8?t=3N5yifMp3lEQOPEW0qXjLpOZ4eklKDci1FQRCwI547O6JME7ip%2FnkwNtnIuhtbKW&td=202604111436
+
+#EXTINF:-1 tvg-id="elephantsanctuary.ip" tvg-name="Elephant Sanctuary" group-title="Live", Elephant Sanctuary
+https://b16.hdrelay.com/camera/4f7d1544-f141-4dbe-a9c2-d6a9b43fe96b/relay/chunklist_w1381986564.m3u8
+
+#EXTINF:-1 tvg-id="dollywood.ip" tvg-name="Dollywood Bald Eagles" group-title="Live", Dollywood Bald Eagles
+https://live.hdontap.com/hls/hosb3/aef_dollywood_aviary2-lower_remux/playlist.m3u8?t=SIbsQAMOe5iWIlQQbzhX8g&e=1775976259
+
+#EXTINF:-1 tvg-id="butler.ip" tvg-name="Butler Pitch Chip and Putt" group-title="Live", Butler Pitch Chip and Putt
+https://s96.ipcamlive.com/streams/60lowfxrtqpauhutp/stream.m3u8
+
+#EXTINF:-1 tvg-id="bigtexan.ip" tvg-name="Big Texan 72oz Steak Challenge" group-title="Live", Big Texan 72oz Steak Challenge
+https://e1-na8.angelcam.com/cameras/54700/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzU5MzMyNTQsIm5iZiI6MTc3NTkzMzEzNCwiZXhwIjoxNzc1OTQwNDU0LCJkaWQiOiI1NDcwMCJ9%2E5eyTs4jLMsfwDYNjCw6swjmPkCC%2D7YXeFXOc8S1tVBU
+
+#EXTINF:-1 tvg-id="bats.ip" tvg-name="Bats" group-title="Live", Bats
+https://command.verkada.com/embed.html#%7B%22entityId%22%3A%20%2288aba428-649b-4ba7-9024-9010ea42d79b%22%2C%20%22embedLinkId%22%3A%20%22dce6f8b2-8d19-4ff3-8ed2-7b7b5dd32cf5%22%2C%20%22domains%22%3A%20%22batworld.org%22%2C%20%22token%22%3A%20%22v2_576de2d5153e5cbb013bd4e504762160%22%2C%20%22urlSD%22%3A%20%22https%3A//vstream.command.verkada.com/filter/transcode/v2_576de2d5153e5cbb013bd4e504762160/88aba428-649b-4ba7-9024-9010ea42d79b/low_res/livevideo.m3u8%22%2C%20%22urlHD%22%3A%20%22https%3A//vstream.command.verkada.com/filter/transcode/v2_576de2d5153e5cbb013bd4e504762160/88aba428-649b-4ba7-9024-9010ea42d79b/high_res/livevideo.m3u8%22%2C%20%22wsUrlSD%22%3A%20%22wss%3A//vstream.command.verkada.com/stream/mediasource/88aba428-649b-4ba7-9024-9010ea42d79b/low_res%22%2C%20%22wsUrlHD%22%3A%20%22wss%3A//vstream.command.verkada.com/stream/mediasource/88aba428-649b-4ba7-9024-9010ea42d79b/high_res%22%2C%20%22h2UrlSD%22%3A%20%22https%3A//vstream.command.verkada.com/stream/bytes/mediasource/88aba428-649b-4ba7-9024-9010ea42d79b/low_res%22%2C%20%22h2UrlHD%22%3A%20%22https%3A//vstream.command.verkada.com/stream/bytes/mediasource/88aba428-649b-4ba7-9024-9010ea42d79b/high_res%22%7D
+
+#EXTINF:-1 tvg-id="dogyardbar.ip" tvg-name="Dog Yard Bar" group-title="Live", Dog Yard Bar
+https://s63.ipcamlive.com/streams/3flp0xbzje8wlszoy/stream.m3u8
+
+#EXTINF:-1 tvg-id="pikesplace.ip" tvg-name="Pike Place Fish Market" group-title="Live", Pike Place Fish Market
+https://stream-uc2-bravo.dropcam.com/nexus_aac/7a19503fc0284387ac1a66cf065ddd91/playlist.m3u8?public=vWNPfeNo0j
+
+#EXTINF:-1 tvg-id="spokanefalls.ip" tvg-name="Spokane Falls" group-title="Live", Spokane Falls
+https://s80.ipcamlive.com/streams/5003fvt4nvagqicl2/stream.m3u8
+
+#EXTINF:-1 tvg-id="lazyranch.ip" tvg-name="Lazy Ranch" group-title="Live", Lazy Ranch
+https://live4.brownrice.com:444/rlazys1/rlazys1.stream/main_playlist.m3u8
