@@ -118,7 +118,19 @@ CHANNELS = [
     {"id": "dogyardbar.ip",       "name": "Dog Yard Bar Live",                     "title": "Dog Yard Bar Live Stream 24/7"},
     {"id": "pikesplace.ip",       "name": "Pike Place Fish Market Live",           "title": "Pike Place Fish Market Live Stream 24/7"},
     {"id": "spokanefalls.ip",     "name": "Spokane Falls Live",                    "title": "Spokane Falls Live Stream 24/7"},
-    {"id": "lazyranch.ip",        "name": "Lazy Ranch Live",                       "title": "Lazy Ranch Live Stream 24/7"},    
+    {"id": "lazyranch.ip",        "name": "Lazy Ranch Live",                       "title": "Lazy Ranch Live Stream 24/7"},
+    {"id": "chalten.ip",          "name": "El Chalten",                            "title": "El Chalten Live Stream 24/7"},
+    {"id": "balsa.ip",            "name": "Santos - Balsa Santos/Guarujá Live",    "title": "Santos - Balsa Santos/Guarujá Live Stream 24/7"},
+    {"id": "nath.ip",             "name": "Muzaffarpur - Garib Nath Mandir Live",  "title": "Muzaffarpur - Garib Nath Mandir Live Stream 24/7"},
+    {"id": "sri.ip",              "name": "Dewata Beach - Sri Lanka Live",         "title": "Dewata Beach - Sri Lanka Live Stream 24/7"},
+    {"id": "sainte.ip",           "name": "Sainte-Rose Live",                      "title": "Sainte-Rose Live Stream 24/7"},
+    {"id": "piton.ip",            "name": "Piton de la Fournaise Volcano Live",    "title": "Piton de la Fournaise Volcano Live Stream 24/7"},
+    {"id": "athos.ip",            "name": "New Athos - Waterfall Live",            "title": "New Athos - Waterfall Live Stream 24/7"},
+    {"id": "sama.ip",             "name": "Samaåsen Sørøst, Norway Live",          "title": "Samaåsen Sørøst, Norway Live Stream 24/7"},
+    {"id": "fjel.ip",             "name": "Fjelldal, Norway Live",                 "title": "Fjelldal, Norway Live Stream 24/7"},
+    {"id": "kenya.ip",            "name": "Aberdare National Park-Kenya Live",     "title": "Aberdare National Park-Kenya Live Stream 24/7"},
+    {"id": "Λιμάνι.ip",           "name": "Λιμάνι Σκύρου Live",                    "title": "Λιμάνι Σκύρου Live Stream 24/7"},
+    {"id": "storks.ip",           "name": "Slovakia Storks Live",                  "title": "Slovakia Storks Live Stream 24/7"},      
 ]
 
 def generate_epg():
