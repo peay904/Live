@@ -322,3 +322,39 @@ https://s80.ipcamlive.com/streams/5003fvt4nvagqicl2/stream.m3u8
 
 #EXTINF:-1 tvg-id="lazyranch.ip" tvg-name="Lazy Ranch" group-title="Live", Lazy Ranch
 https://live4.brownrice.com:444/rlazys1/rlazys1.stream/main_playlist.m3u8
+
+#EXTINF:-1 tvg-id="chalten.ip" tvg-name="El Chalten" group-title="Live", El Chalten
+https://media.cotecal.com.ar/Chalten_Cam/video.m3u8
+
+#EXTINF:-1 tvg-id="balsa.ip" tvg-name="Santos - Balsa Santos/Guarujá" group-title="Live", Santos - Balsa Santos/Guarujá
+https://s1.tvr.ovh/instituto6482/instituto6482/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nath.ip" tvg-name="Muzaffarpur - Garib Nath Mandir" group-title="Live", Muzaffarpur - Garib Nath Mandir
+https://s5.ipcamlive.com/streams/05tqccd014zovap3l/stream.m3u8
+
+#EXTINF:-1 tvg-id="sri.ip" tvg-name="Dewata Beach - Sri Lanka" group-title="Live", Dewata Beach - Sri Lanka
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ui85edltog2lkd38ao7ufqecg6
+
+#EXTINF:-1 tvg-id="sainte.ip" tvg-name="Sainte-Rose" group-title="Live", Sainte-Rose
+https://deliverys4.quanteec.com/contents/encodings/vod/30c78bc0-f3ea-4548-3134-3630-6d61-63-8026-0d8881dcd7ebd/master.m3u8
+
+#EXTINF:-1 tvg-id="piton.ip" tvg-name="Piton de la Fournaise Volcano" group-title="Live", Piton de la Fournaise Volcano
+https://deliverys4.quanteec.com/contents/encodings/vod/573a7654-837b-4081-3938-3230-6d61-63-a753-af0fd66e5f42d/master.m3u8
+
+#EXTINF:-1 tvg-id="athos.ip" tvg-name="New Athos - Waterfall" group-title="Live", New Athos - Waterfall
+https://prx.poster-abh.ru/WEB31-AFONVODOPAD/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="sama.ip" tvg-name="Samaåsen Sørøst, Norway" group-title="Live", Samaåsen Sørøst, Norway
+https://s44.ipcamlive.com/streams/2co3vlztcxralmwzh/stream.m3u8
+
+#EXTINF:-1 tvg-id="fjel.ip" tvg-name="Fjelldal, Norway" group-title="Live", Fjelldal, Norway
+https://s55.ipcamlive.com/streams/37sfamrknl9wtdleg/stream.m3u8
+
+#EXTINF:-1 tvg-id="kenya.ip" tvg-name="Aberdare National Park-Kenya" group-title="Live", Aberdare National Park-Kenya
+https://e1-eu3.angelcam.com/cameras/889/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzU5NjQ3NTcsIm5iZiI6MTc3NTk2NDYzNywiZXhwIjoxNzc1OTcxOTU3LCJkaWQiOiI4ODkifQ%2E6d1Crc%5FhSMboRBxJ15u8Xn4WZ4uBA1RO1l0E2SaTkw8
+
+#EXTINF:-1 tvg-id="Λιμάνι.ip" tvg-name="Λιμάνι Σκύρου" group-title="Live", Λιμάνι Σκύρου
+https://pluto6.cybex.gr/hls/mc45cx277794.m3u8
+
+#EXTINF:-1 tvg-id="storks.ip" tvg-name="Slovakia Storks" group-title="Live", Slovakia Storks
+https://kukaj.profi-net.sk/live/BOCIANY_VAVRISOVO.stream/playlist.m3u8?DVR
