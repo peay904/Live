@@ -324,6 +324,42 @@
   <channel id="lazyranch.ip">
     <display-name>Lazy Ranch Live</display-name>
   </channel>
+  <channel id="chalten.ip">
+    <display-name>El Chalten</display-name>
+  </channel>
+  <channel id="balsa.ip">
+    <display-name>Santos - Balsa Santos/Guarujá Live</display-name>
+  </channel>
+  <channel id="nath.ip">
+    <display-name>Muzaffarpur - Garib Nath Mandir Live</display-name>
+  </channel>
+  <channel id="sri.ip">
+    <display-name>Dewata Beach - Sri Lanka Live</display-name>
+  </channel>
+  <channel id="sainte.ip">
+    <display-name>Sainte-Rose Live</display-name>
+  </channel>
+  <channel id="piton.ip">
+    <display-name>Piton de la Fournaise Volcano Live</display-name>
+  </channel>
+  <channel id="athos.ip">
+    <display-name>New Athos - Waterfall Live</display-name>
+  </channel>
+  <channel id="sama.ip">
+    <display-name>Samaåsen Sørøst, Norway Live</display-name>
+  </channel>
+  <channel id="fjel.ip">
+    <display-name>Fjelldal, Norway Live</display-name>
+  </channel>
+  <channel id="kenya.ip">
+    <display-name>Aberdare National Park-Kenya Live</display-name>
+  </channel>
+  <channel id="Λιμάνι.ip">
+    <display-name>Λιμάνι Σκύρου Live</display-name>
+  </channel>
+  <channel id="storks.ip">
+    <display-name>Slovakia Storks Live</display-name>
+  </channel>
   <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -1618,6 +1654,150 @@
   </programme>
   <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="lazyranch.ip">
     <title lang="en">Lazy Ranch Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="chalten.ip">
+    <title lang="en">El Chalten Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="chalten.ip">
+    <title lang="en">El Chalten Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="chalten.ip">
+    <title lang="en">El Chalten Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="balsa.ip">
+    <title lang="en">Santos - Balsa Santos/Guarujá Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="balsa.ip">
+    <title lang="en">Santos - Balsa Santos/Guarujá Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="balsa.ip">
+    <title lang="en">Santos - Balsa Santos/Guarujá Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="nath.ip">
+    <title lang="en">Muzaffarpur - Garib Nath Mandir Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="nath.ip">
+    <title lang="en">Muzaffarpur - Garib Nath Mandir Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="nath.ip">
+    <title lang="en">Muzaffarpur - Garib Nath Mandir Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="sri.ip">
+    <title lang="en">Dewata Beach - Sri Lanka Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="sri.ip">
+    <title lang="en">Dewata Beach - Sri Lanka Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="sri.ip">
+    <title lang="en">Dewata Beach - Sri Lanka Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="sainte.ip">
+    <title lang="en">Sainte-Rose Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="sainte.ip">
+    <title lang="en">Sainte-Rose Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="sainte.ip">
+    <title lang="en">Sainte-Rose Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="piton.ip">
+    <title lang="en">Piton de la Fournaise Volcano Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="piton.ip">
+    <title lang="en">Piton de la Fournaise Volcano Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="piton.ip">
+    <title lang="en">Piton de la Fournaise Volcano Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="athos.ip">
+    <title lang="en">New Athos - Waterfall Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="athos.ip">
+    <title lang="en">New Athos - Waterfall Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="athos.ip">
+    <title lang="en">New Athos - Waterfall Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="sama.ip">
+    <title lang="en">Samaåsen Sørøst, Norway Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="sama.ip">
+    <title lang="en">Samaåsen Sørøst, Norway Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="sama.ip">
+    <title lang="en">Samaåsen Sørøst, Norway Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="fjel.ip">
+    <title lang="en">Fjelldal, Norway Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="fjel.ip">
+    <title lang="en">Fjelldal, Norway Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="fjel.ip">
+    <title lang="en">Fjelldal, Norway Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="kenya.ip">
+    <title lang="en">Aberdare National Park-Kenya Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="kenya.ip">
+    <title lang="en">Aberdare National Park-Kenya Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="kenya.ip">
+    <title lang="en">Aberdare National Park-Kenya Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="Λιμάνι.ip">
+    <title lang="en">Λιμάνι Σκύρου Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="Λιμάνι.ip">
+    <title lang="en">Λιμάνι Σκύρου Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="Λιμάνι.ip">
+    <title lang="en">Λιμάνι Σκύρου Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260413000000 +0000" channel="storks.ip">
+    <title lang="en">Slovakia Storks Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260414000000 +0000" channel="storks.ip">
+    <title lang="en">Slovakia Storks Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260415000000 +0000" channel="storks.ip">
+    <title lang="en">Slovakia Storks Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
 </tv>
