@@ -207,12 +207,6 @@
   <channel id="seaside.ip">
     <display-name>Seaside Heights Boardwalk Live</display-name>
   </channel>
-  <channel id="oceancity.ip">
-    <display-name>Ocean City Boardwalk Live</display-name>
-  </channel>
-  <channel id="rumshack.ip">
-    <display-name>Ocean City Rum Shack Live</display-name>
-  </channel>
   <channel id="alpacas.ip">
     <display-name>Unity Farms Alpacas Live</display-name>
   </channel>
@@ -237,9 +231,6 @@
   <channel id="como.ip">
     <display-name>Como Conservatory - St. Paul Live</display-name>
   </channel>
-  <channel id="ywolves.ip">
-    <display-name>West Yellowstone Wolves Live</display-name>
-  </channel>
   <channel id="oldfaithful.ip">
     <display-name>Old Faithful Live</display-name>
   </channel>
@@ -249,8 +240,8 @@
   <channel id="sphere.ip">
     <display-name>Las Vegas Sphere Live</display-name>
   </channel>
-  <channel id="howardlaundromat.ip">
-    <display-name>Howard BLVD Laundromat Live</display-name>
+  <channel id="spoklaundromat.ip">
+    <display-name>Spokane Laundromat Live</display-name>
   </channel>
   <channel id="greatfalls.ip">
     <display-name>Great Falls Live</display-name>
@@ -270,14 +261,8 @@
   <channel id="blueridge.ip">
     <display-name>Blue Ridge Mountains Live</display-name>
   </channel>
-  <channel id="harborwinds.ip">
-    <display-name>Harbor Winds Trailer Park Live</display-name>
-  </channel>
   <channel id="sealion.ip">
     <display-name>Newport Sea Lion Docks Live</display-name>
-  </channel>
-  <channel id="deathball.ip">
-    <display-name>Deathball Mountain Live</display-name>
   </channel>
   <channel id="sxm.ip">
     <display-name>SXM Island Cam Live</display-name>
@@ -300,20 +285,17 @@
   <channel id="elephantsanctuary.ip">
     <display-name>Elephant Sanctuary Live</display-name>
   </channel>
-  <channel id="dollywood.ip">
-    <display-name>Dollywood Bald Eagles Live</display-name>
-  </channel>
   <channel id="butler.ip">
     <display-name>Butler Pitch Chip and Putt Live</display-name>
+  </channel>
+  <channel id="butlert.ip">
+    <display-name>Butler Pitch Chip and Putt 1st Tee</display-name>
   </channel>
   <channel id="bigtexan.ip">
     <display-name>Big Texan 72oz Steak Challenge Live</display-name>
   </channel>
   <channel id="bats.ip">
     <display-name>Bats Live</display-name>
-  </channel>
-  <channel id="dogyardbar.ip">
-    <display-name>Dog Yard Bar Live</display-name>
   </channel>
   <channel id="pikesplace.ip">
     <display-name>Pike Place Fish Market Live</display-name>
@@ -339,26 +321,17 @@
   <channel id="sainte.ip">
     <display-name>Sainte-Rose Live</display-name>
   </channel>
-  <channel id="piton.ip">
-    <display-name>Piton de la Fournaise Volcano Live</display-name>
-  </channel>
   <channel id="athos.ip">
     <display-name>New Athos - Waterfall Live</display-name>
   </channel>
-  <channel id="sama.ip">
-    <display-name>Samaåsen Sørøst, Norway Live</display-name>
-  </channel>
-  <channel id="fjel.ip">
-    <display-name>Fjelldal, Norway Live</display-name>
-  </channel>
-  <channel id="kenya.ip">
-    <display-name>Aberdare National Park-Kenya Live</display-name>
-  </channel>
-  <channel id="Λιμάνι.ip">
-    <display-name>Λιμάνι Σκύρου Live</display-name>
-  </channel>
   <channel id="storks.ip">
     <display-name>Slovakia Storks Live</display-name>
+  </channel>
+  <channel id="trash.ip">
+    <display-name>Metro South Trash Live</display-name>
+  </channel>
+  <channel id="trav.ip">
+    <display-name>Myrtle Beach Travel Park Live</display-name>
   </channel>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="Maui.ip">
     <title lang="en">Lahaina Maui Live Stream 24/7</title>
@@ -1188,30 +1161,6 @@
     <title lang="en">Seaside Heights Boardwalk Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="oceancity.ip">
-    <title lang="en">Ocean City Boardwalk Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="oceancity.ip">
-    <title lang="en">Ocean City Boardwalk Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="oceancity.ip">
-    <title lang="en">Ocean City Boardwalk Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="rumshack.ip">
-    <title lang="en">Ocean City Rum Shack Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="rumshack.ip">
-    <title lang="en">Ocean City Rum Shack Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="rumshack.ip">
-    <title lang="en">Ocean City Rum Shack Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="alpacas.ip">
     <title lang="en">Unity Farms Alpacas Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -1308,18 +1257,6 @@
     <title lang="en">Como Conservatory - St. Paul Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="ywolves.ip">
-    <title lang="en">West Yellowstone Wolves Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="ywolves.ip">
-    <title lang="en">West Yellowstone Wolves Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="ywolves.ip">
-    <title lang="en">West Yellowstone Wolves Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="oldfaithful.ip">
     <title lang="en">Old Faithful Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -1356,16 +1293,16 @@
     <title lang="en">Las Vegas Sphere Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="howardlaundromat.ip">
-    <title lang="en">Howard BLVD Laundromat Live Stream 24/7</title>
+  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="spoklaundromat.ip">
+    <title lang="en">Spokane Laundromat Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="howardlaundromat.ip">
-    <title lang="en">Howard BLVD Laundromat Live Stream 24/7</title>
+  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="spoklaundromat.ip">
+    <title lang="en">Spokane Laundromat Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="howardlaundromat.ip">
-    <title lang="en">Howard BLVD Laundromat Live Stream 24/7</title>
+  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="spoklaundromat.ip">
+    <title lang="en">Spokane Laundromat Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="greatfalls.ip">
@@ -1440,18 +1377,6 @@
     <title lang="en">Blue Ridge Mountains Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="harborwinds.ip">
-    <title lang="en">Harbor Winds Trailer Park Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="harborwinds.ip">
-    <title lang="en">Harbor Winds Trailer Park Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="harborwinds.ip">
-    <title lang="en">Harbor Winds Trailer Park Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="sealion.ip">
     <title lang="en">Newport Sea Lion Docks Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -1462,18 +1387,6 @@
   </programme>
   <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="sealion.ip">
     <title lang="en">Newport Sea Lion Docks Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="deathball.ip">
-    <title lang="en">Deathball Mountain Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="deathball.ip">
-    <title lang="en">Deathball Mountain Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="deathball.ip">
-    <title lang="en">Deathball Mountain Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="sxm.ip">
@@ -1560,28 +1473,28 @@
     <title lang="en">Elephant Sanctuary Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="dollywood.ip">
-    <title lang="en">Dollywood Bald Eagles Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="dollywood.ip">
-    <title lang="en">Dollywood Bald Eagles Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="dollywood.ip">
-    <title lang="en">Dollywood Bald Eagles Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="butler.ip">
-    <title lang="en">Butler Pitch Chip and Putt Live Stream 24/7</title>
+    <title lang="en">Butler Pitch Chip and Putt Courtyard Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="butler.ip">
-    <title lang="en">Butler Pitch Chip and Putt Live Stream 24/7</title>
+    <title lang="en">Butler Pitch Chip and Putt Courtyard Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="butler.ip">
-    <title lang="en">Butler Pitch Chip and Putt Live Stream 24/7</title>
+    <title lang="en">Butler Pitch Chip and Putt Courtyard Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="butlert.ip">
+    <title lang="en">Butler Pitch Chip and Putt 1st Tee 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="butlert.ip">
+    <title lang="en">Butler Pitch Chip and Putt 1st Tee 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="butlert.ip">
+    <title lang="en">Butler Pitch Chip and Putt 1st Tee 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="bigtexan.ip">
@@ -1606,18 +1519,6 @@
   </programme>
   <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="bats.ip">
     <title lang="en">Bats Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="dogyardbar.ip">
-    <title lang="en">Dog Yard Bar Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="dogyardbar.ip">
-    <title lang="en">Dog Yard Bar Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="dogyardbar.ip">
-    <title lang="en">Dog Yard Bar Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="pikesplace.ip">
@@ -1716,18 +1617,6 @@
     <title lang="en">Sainte-Rose Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="piton.ip">
-    <title lang="en">Piton de la Fournaise Volcano Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="piton.ip">
-    <title lang="en">Piton de la Fournaise Volcano Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="piton.ip">
-    <title lang="en">Piton de la Fournaise Volcano Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="athos.ip">
     <title lang="en">New Athos - Waterfall Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -1740,54 +1629,6 @@
     <title lang="en">New Athos - Waterfall Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="sama.ip">
-    <title lang="en">Samaåsen Sørøst, Norway Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="sama.ip">
-    <title lang="en">Samaåsen Sørøst, Norway Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="sama.ip">
-    <title lang="en">Samaåsen Sørøst, Norway Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="fjel.ip">
-    <title lang="en">Fjelldal, Norway Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="fjel.ip">
-    <title lang="en">Fjelldal, Norway Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="fjel.ip">
-    <title lang="en">Fjelldal, Norway Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="kenya.ip">
-    <title lang="en">Aberdare National Park-Kenya Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="kenya.ip">
-    <title lang="en">Aberdare National Park-Kenya Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="kenya.ip">
-    <title lang="en">Aberdare National Park-Kenya Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="Λιμάνι.ip">
-    <title lang="en">Λιμάνι Σκύρου Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="Λιμάνι.ip">
-    <title lang="en">Λιμάνι Σκύρου Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="Λιμάνι.ip">
-    <title lang="en">Λιμάνι Σκύρου Live Stream 24/7</title>
-    <desc lang="en">This programming runs continuously without interruption.</desc>
-  </programme>
   <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="storks.ip">
     <title lang="en">Slovakia Storks Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
@@ -1798,6 +1639,30 @@
   </programme>
   <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="storks.ip">
     <title lang="en">Slovakia Storks Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="trash.ip">
+    <title lang="en">Metro South Trash Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="trash.ip">
+    <title lang="en">Metro South Trash Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="trash.ip">
+    <title lang="en">Metro South Trash Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260426000000 +0000" channel="trav.ip">
+    <title lang="en">Myrtle Beach Travel Park Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260427000000 +0000" channel="trav.ip">
+    <title lang="en">Myrtle Beach Travel Park Live Stream 24/7</title>
+    <desc lang="en">This programming runs continuously without interruption.</desc>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="trav.ip">
+    <title lang="en">Myrtle Beach Travel Park Live Stream 24/7</title>
     <desc lang="en">This programming runs continuously without interruption.</desc>
   </programme>
 </tv>
