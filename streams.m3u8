@@ -83,9 +83,6 @@ https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.cnbodpt.fd0.sm1.
 #EXTINF:-1 tvg-id="fish.ip" tvg-name="North Carolina Fishing Pier" group-title="Live", North Carolina Fishing Pier
 https://streams.surfchex.com:8443/live/scp.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="oban.ip" tvg-name="Oban,Scotland Pier" group-title="Live", Oban, Scotland Pier
-https://n2.cdn.jetstre.am/session/d2d4cbdddb1dbf2e5579aba26c3a16f3/sz/streamdays/wowza4/live/OLTA-EEUSK-244/playlist.m3u8?token=bbUodPAStlqJ7gwVjbVTyg&time=1775313218
-
 #EXTINF:-1 tvg-id="ferry.ip" tvg-name="Windermere Ferry" group-title="Live", Windermere Ferry
 https://n2.cdn.jetstre.am/session/572c8f3109f0ad918307487aaa0f2857/sz/streamdays/wowza4/live/FreshwaterBiologicalAssociation-Ferry-184/playlist.m3u8?token=hsxNxmyFJZLHSsUuO2SaKw&time=1775313390
 
@@ -103,9 +100,6 @@ https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/09e0bb5
 
 #EXTINF:-1 tvg-id="bird.ip" tvg-name="Birdfeeder" group-title="Live", Birdfeeder
 https://stream.wildlifestreaming.io:8443/WildlifeKate/13.stream_aac/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rocks.ip" tvg-name="Red Rocks" group-title="Live", Red Rocks
-https://s96.ipcamlive.com/streams/60jpcxnodqwtuwkg2/stream.m3u8
 
 #EXTINF:-1 tvg-id="pebble.ip" tvg-name="Pebble Beach 18th Green" group-title="Live", Pebble Beach 18th Green
 https://b15.hdrelay.com/camera/CID_VTSJ00000081/relay/playlist.m3u8
@@ -137,14 +131,8 @@ https://live.hdontap.com/hls/hosb1/pikes_peak-broadmoor.stream/playlist.m3u8?t=Z
 #EXTINF:-1 tvg-id="glenwood.ip" tvg-name="Glenwood Hot Springs" group-title="Live", Glenwood Hot Springs
 https://b16.hdrelay.com/camera/1b158cc2-09f7-46d7-a518-37acbd107b6c/relay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="redrocks.ip" tvg-name="Red Rocks Amphitheatre" group-title="Live", Red Rocks Amphitheatre
-https://s106.ipcamlive.com/streams/6aklpusq4oseaivtc/stream.m3u8
-
 #EXTINF:-1 tvg-id="princeton.ip" tvg-name="Mt. Princeton" group-title="Live", Mt. Princeton
 https://2-fss-2.streamhoster.com/pl_126/200612-1237886-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="hotspring.ip" tvg-name="World's Deepest Hot Spring" group-title="Live", World's Deepest Hot Spring
-https://n1.cdn.jetstre.am/session/88db9ea5f9a7d3416ba28d17307db8fa/sz/streamdays/wowza4/live/Pagosa-MotherSpring-11111/playlist.m3u8?token=CoQdncxajWw5LuWpHWTGyQ&time=1775861290
 
 #EXTINF:-1 tvg-id="laundromat.ip" tvg-name="Clinton, CO Laundromat" group-title="Live", Clinton, CO Laundromat
 https://e1-na8.angelcam.com/cameras/40266/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NzU4NjEzOTUsIm5iZiI6MTc3NTg2MTI3NSwiZXhwIjoxNzc1ODY4NTk1LCJkaWQiOiI0MDI2NiJ9%2EQ7PS0%2DEAMDn4c2dA%5FLzbhbppgqa3gGn8xa%2DZOEyWWXI
@@ -167,9 +155,6 @@ https://s78.ipcamlive.com/streams/4ew0qpem8ygzoqstt/stream.m3u8
 #EXTINF:-1 tvg-id="balance.ip" tvg-name="Balance Gaming" group-title="Live", Balance Gaming
 https://s66.ipcamlive.com/streams/42fjsv6ct8z2o1rah/stream.m3u8
 
-#EXTINF:-1 tvg-id="manatee.ip" tvg-name="Underwater Manatee Cam" group-title="Live", Underwater Manatee Cam
-https://videos-3.earthcam.com/fecnetwork/23997.flv/playlist.m3u8?t=ecKuwjp4sAI%2BAbvkrh1mAYqXshJP4ncZ6bxGixmQ2mXsZ90qdBbfJJWCswIRdCDF&td=202604101920
-
 #EXTINF:-1 tvg-id="budalley.ip" tvg-name="Bud & Alleys" group-title="Live", Bud & Alleys
 https://usw01-smr05-relay.ozolio.com/hll-live/_definst_/relay01.axcaej9.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
 
@@ -185,9 +170,6 @@ https://stream1.panocloud.com/ossiachschifffahrt/ossiachschifffahrt.stream/playl
 #EXTINF:-1 tvg-id="chicagoriver.ip" tvg-name="Chicago River" group-title="Live", Chicago River
 https://wms-prod-3.wetmet.net/live/900-04-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI2IDQ6NDM6MDMgUE0maGFzaF92YWx1ZT1hVE16R0FFK1dKOVVXZ2tLQms4K1VRPT0mdmFsaWRtaW51dGVzPTMw
 
-#EXTINF:-1 tvg-id="willissky.ip" tvg-name="Willis Tower Skydeck" group-title="Live", Willis Tower Skydeck
-https://ectvradio.earthcam.com/earthcamradio/meditation/playlist.m3u8
-
 #EXTINF:-1 tvg-id="boonecounty.ip" tvg-name="Boone County Clerk" group-title="Live", Boone County Clerk
 https://videos-3.earthcam.com/fecnetwork/4369.flv/playlist.m3u8?t=glxQQqQ0DAoAB2%2FzAoNg%2B7sdqx9FK2W3HOFIGyV7f21NXPOYHxqiCfl4ExUcibC8&td=202604111250
 
@@ -200,9 +182,6 @@ https://videos-3.earthcam.com/fecnetwork/20992.flv/playlist.m3u8?t=%2B5gbbHtIvxQ
 #EXTINF:-1 tvg-id="barharbor.ip" tvg-name="Bar Harbor Osprey" group-title="Live", Bar Harbor Osprey
 https://videos-3.earthcam.com/fecnetwork/32167.flv/playlist.m3u8?t=n4Sem1lnnqzjVFUaWUsW70MeBiJswW%2BF7bOykp1Gm0RPeOtbAEyRXAOTZpmnj0H9&td=202604111258
 
-#EXTINF:-1 tvg-id="seaside.ip" tvg-name="Seaside Heights Boardwalk" group-title="Live", Seaside Heights Boardwalk
-https://videos-3.earthcam.com/fecnetwork/6975.flv/playlist.m3u8?t=VTPH0UpX3j5uDhMJckU9RFQJYgXnAHc5YHpuF6zCoRmMs8fLIqElseXTYapNgAkT&td=202604111300
-
 #EXTINF:-1 tvg-id="alpacas.ip" tvg-name="Unity Farms Alpacas" group-title="Live", Unity Farms Alpacas
 https://stream-uc2-alfa.dropcam.com/nexus_aac/3a4e098211a14467b0a38d988418fb0d/playlist.m3u8?public=bwVr2T04m8
 
@@ -211,9 +190,6 @@ https://stream-uc2-bravo.dropcam.com/nexus_aac/57bb40f6e71f465aa10264d1a2e6bacb/
 
 #EXTINF:-1 tvg-id="minihorses.ip" tvg-name="Unity Farms Mini Horses" group-title="Live", Unity Farms Mini Horses
 https://stream-ue1-charlie.dropcam.com/nexus_aac/f2c724d5f7d14d9bbbc237b0b677235a/playlist.m3u8?public=osf5GUJsjm
-
-#EXTINF:-1 tvg-id="elkpark.ip" tvg-name="Patrick Mankowski Elk Park" group-title="Live", Patrick Mankowski Elk Park
-https://s152.ipcamlive.com/streams/98yzfsng5x2oitqhl/stream.m3u8
 
 #EXTINF:-1 tvg-id="barbershop.ip" tvg-name="Grand Slam Barbershop" group-title="Live", Grand Slam Barbershop
 https://stream-ue1-bravo.dropcam.com/nexus_aac/c912b3ef419146c7a44dba18cb546c0d/playlist.m3u8?public=zyu514XmDL
@@ -250,9 +226,6 @@ https://videos-3.earthcam.com/fecnetwork/45903.flv/playlist.m3u8?DVR&t=ke5HMW6qR
 
 #EXTINF:-1 tvg-id="niagara2.ip" tvg-name="Niagara Falls - Maid of the Mist" group-title="Live", Niagara Falls - Maid of the Mist
 https://vstream.command.verkada.com/filter/transcode/v2_522fbb25ed21b9216c5d987279a36ed3/10461166-d0c5-49b2-b6b2-f3875669ee32/high_res/livevideo.m3u8
-
-#EXTINF:-1 tvg-id="timessquare.ip" tvg-name="Times Square" group-title="Live", Times Square
-https://videos-3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8?t=%2FeC3ZmOA%2BWko%2F9oYTVi%2B2F1FCtCsD6U02gtmGMhDX2rzHuoG9x99kV9b5Lir3mp2&td=202604111400
 
 #EXTINF:-1 tvg-id="blueridge.ip" tvg-name="Blue Ridge Mountains" group-title="Live", Blue Ridge Mountains
 https://streamer5.brownrice.com/pisgahinn1/pisgahinn1.stream/main_playlist.m3u8
