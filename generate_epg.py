@@ -85,6 +85,7 @@ CHANNELS = [
     {"id": "sealion.ip",          "name": "Newport Sea Lion Docks Live",           "title": "Newport Sea Lion Docks Live Stream 24/7"},
     {"id": "sxm.ip",              "name": "SXM Island Cam Live",                   "title": "SXM Island Cam Live Stream 24/7"},
     {"id": "hheagle.ip",          "name": "Hilton Head Eagles Nest Live",          "title": "Hilton Head Eagles Nest Live Stream 24/7"},
+    {"id": "windjammerband",      "name": "Windjammer Band Cam",                   "title": "Windjammer Band Cam 24/7"},
     {"id": "windjammerdeck.ip",   "name": "Windjammer Deck Live",                  "title": "Windjammer Deck Live Stream 24/7"},
     {"id": "windjammerdeck2.ip",  "name": "Windjammer Deck 2 Live",                "title": "Windjammer Deck 2 Live Stream 24/7"},
     {"id": "windjammerdeck3.ip",  "name": "Windjammer Deck 3 Live",                "title": "Windjammer Deck 3 Live Stream 24/7"},
@@ -104,6 +105,7 @@ CHANNELS = [
     {"id": "storks.ip",           "name": "Slovakia Storks Live",                  "title": "Slovakia Storks Live Stream 24/7"},
     {"id": "trash.ip",            "name": "Metro South Trash Live",                "title": "Metro South Trash Live Stream 24/7"},
     {"id": "trav.ip",             "name": "Myrtle Beach Travel Park Live",         "title": "Myrtle Beach Travel Park Live Stream 24/7"},
+    {"id": "den.ip",              "name": "Bear Den",                              "title": "Bear Den"},
 ]
 
 def generate_epg():
