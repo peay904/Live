@@ -239,6 +239,9 @@ https://cdn77.ptztv.live/zy6ezZGyfCpTh34OzvtEjQ==,1775953711/cdnorigin/sic.strea
 #EXTINF:-1 tvg-id="hheagle.ip" tvg-name="Hilton Head Eagles Nest" group-title="Live", Hilton Head Eagles Nest
 https://live.hdontap.com/hls/hosbdvr6/hhland_eaglecam_new_large.stream/playlist.m3u8?t=hH0i8M_ZGIssW7qTIvbhcQ&e=1775975325
 
+#EXTINF:-1 tvg-id="windjammerband.ip" tvg-name="Windjammer Band Cam" group-title="Live", Windjammer Band Cam
+https://stream-ue1-delta.dropcam.com/nexus_aac/9c46c7f2977a41dcb15775fd2b660f60/playlist.m3u8?public=SetcTxKWPk
+
 #EXTINF:-1 tvg-id="windjammerdeck.ip" tvg-name="Windjammer Deck" group-title="Live", Windjammer Deck
 https://stream-us1-alfa.dropcam.com/nexus_aac/ccf72886be3d4853bb0cff74811d95b0/playlist.m3u8?public=TE7oZuqlIh
 
@@ -301,3 +304,6 @@ https://e1-na8.angelcam.com/cameras/126281/streams/hls/playlist.m3u8?token=eyJ0e
 
 #EXTINF:-1 tvg-id="trav.ip" tvg-name="Myrtle Beach Travel Park" group-title="Live", Myrtle Beach Travel Park
 https://live6.brownrice.com:444/mbtravelpark1/mbtravelpark1.stream/main_playlist.m3u8
+
+#EXTINF:-1 tvg-id="den.ip" tvg-name="Bear Den" group-title="Live", Bear Den
+https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.rocjry.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/playlist.m3u8
