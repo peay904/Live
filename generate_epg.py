@@ -106,6 +106,7 @@ CHANNELS = [
     {"id": "trash.ip",            "name": "Metro South Trash Live",                "title": "Metro South Trash Live Stream 24/7"},
     {"id": "trav.ip",             "name": "Myrtle Beach Travel Park Live",         "title": "Myrtle Beach Travel Park Live Stream 24/7"},
     {"id": "den.ip",              "name": "Bear Den",                              "title": "Bear Den"},
+    {"id": "dub.ip",              "name": "Dublin Pub",                            "title": "Dublin Pub"},
 ]
 
 def generate_epg():
